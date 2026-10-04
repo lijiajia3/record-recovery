@@ -1,0 +1,77 @@
+{
+  "assets": {
+    "replay-data.zip": {
+      "regular_members": 3040,
+      "asset_hash_and_size_verified": true,
+      "all_members_stream_decoded_CRC_SHA_and_original_byte_identity": true,
+      "credential_pattern_and_nested_zip_scan": true,
+      "current_ZIP_size": 39404840,
+      "current_ZIP_sha256": "bee2c6725ad1fe58c41c282696f58186390acabd2ae459feffbfdd561201093b"
+    },
+    "weights-caches-01.zip": {
+      "regular_members": 36,
+      "asset_hash_and_size_verified": true,
+      "all_members_stream_decoded_CRC_SHA_and_original_byte_identity": true,
+      "credential_pattern_and_nested_zip_scan": true
+    },
+    "weights-caches-02.zip": {
+      "regular_members": 8982,
+      "asset_hash_and_size_verified": true,
+      "all_members_stream_decoded_CRC_SHA_and_original_byte_identity": true,
+      "credential_pattern_and_nested_zip_scan": true
+    },
+    "weights-caches-03.zip": {
+      "regular_members": 1429,
+      "asset_hash_and_size_verified": true,
+      "all_members_stream_decoded_CRC_SHA_and_original_byte_identity": true,
+      "credential_pattern_and_nested_zip_scan": true
+    },
+    "weights-caches-04.zip": {
+      "regular_members": 233,
+      "asset_hash_and_size_verified": true,
+      "all_members_stream_decoded_CRC_SHA_and_original_byte_identity": true,
+      "credential_pattern_and_nested_zip_scan": true
+    },
+    "weights-caches-05.zip": {
+      "regular_members": 51,
+      "asset_hash_and_size_verified": true,
+      "all_members_stream_decoded_CRC_SHA_and_original_byte_identity": true,
+      "credential_pattern_and_nested_zip_scan": true
+    },
+    "weights-caches-06.zip": {
+      "regular_members": 51,
+      "asset_hash_and_size_verified": true,
+      "all_members_stream_decoded_CRC_SHA_and_original_byte_identity": true,
+      "credential_pattern_and_nested_zip_scan": true
+    },
+    "weights-caches-07.zip": {
+      "regular_members": 485,
+      "asset_hash_and_size_verified": true,
+      "all_members_stream_decoded_CRC_SHA_and_original_byte_identity": true,
+      "credential_pattern_and_nested_zip_scan": true
+    },
+    "weights-caches-08.zip": {
+      "regular_members": 553,
+      "asset_hash_and_size_verified": true,
+      "all_members_stream_decoded_CRC_SHA_and_original_byte_identity": true,
+      "credential_pattern_and_nested_zip_scan": true
+    }
+  },
+  "total_members": 14860,
+  "actual_checks_completed": true,
+  "external_credential_file_read": false,
+  "full_pattern_scan_not_OS_sandbox_claim": true,
+  "replay_data_current_fresh_extraction_and_replay_exit_code": 0,
+  "unchanged_binary_ZIP_reports_reused_only_after_original_ZIP_hashes_match": true,
+  "unchanged_binary_ZIP_sha256": {
+    "weights-caches-01.zip": "bc3a86afb7b3e4d7ca75b253717663df3d88438c7a40d7a3eed1b468c7cd6d9d",
+    "weights-caches-02.zip": "06123dd81f966ce4c0845c2b7bbc4993484effedc72e998a0e5771d6551bb1f1",
+    "weights-caches-03.zip": "423d019282c16c041108680ce5f099b9d1c0c1c57adfa975efa525e16dfea439",
+    "weights-caches-04.zip": "95a0a93282a6f9ee813a445cb0d5188b05a75494da20aa1a4630ea8363c4e284",
+    "weights-caches-05.zip": "9dd64e3ffdab2ff253e8541c24216823e7dda979c48a6eeac77e78e11a5a1bdc",
+    "weights-caches-06.zip": "82f93b4986ba005b42fbe350a1b8d538cd6b633a51b74e799f16e75d68abbf43",
+    "weights-caches-07.zip": "26085307700084f997fde4a061de3049ce424c7b491a1ce643dcc5bc2bb567db",
+    "weights-caches-08.zip": "22da026ad31a319dee1144f464941d424f227441da9db70b2f95b75d96a663d8"
+  },
+  "actual_current_all_binary_ZIP_hashes_rechecked": true
+}

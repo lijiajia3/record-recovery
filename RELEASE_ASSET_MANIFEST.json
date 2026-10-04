@@ -1,0 +1,2181 @@
+{
+  "tag": "v1.0.0",
+  "assets": {
+    "replay-data.zip": {
+      "sha256": "bee2c6725ad1fe58c41c282696f58186390acabd2ae459feffbfdd561201093b",
+      "size_bytes": 39404840
+    },
+    "weights-caches-01.zip": {
+      "sha256": "bc3a86afb7b3e4d7ca75b253717663df3d88438c7a40d7a3eed1b468c7cd6d9d",
+      "size_bytes": 1372363034
+    },
+    "weights-caches-02.zip": {
+      "sha256": "06123dd81f966ce4c0845c2b7bbc4993484effedc72e998a0e5771d6551bb1f1",
+      "size_bytes": 1390763832
+    },
+    "weights-caches-03.zip": {
+      "sha256": "423d019282c16c041108680ce5f099b9d1c0c1c57adfa975efa525e16dfea439",
+      "size_bytes": 1390322740
+    },
+    "weights-caches-04.zip": {
+      "sha256": "95a0a93282a6f9ee813a445cb0d5188b05a75494da20aa1a4630ea8363c4e284",
+      "size_bytes": 1392300531
+    },
+    "weights-caches-05.zip": {
+      "sha256": "9dd64e3ffdab2ff253e8541c24216823e7dda979c48a6eeac77e78e11a5a1bdc",
+      "size_bytes": 1395754141
+    },
+    "weights-caches-06.zip": {
+      "sha256": "82f93b4986ba005b42fbe350a1b8d538cd6b633a51b74e799f16e75d68abbf43",
+      "size_bytes": 1386818610
+    },
+    "weights-caches-07.zip": {
+      "sha256": "26085307700084f997fde4a061de3049ce424c7b491a1ce643dcc5bc2bb567db",
+      "size_bytes": 1395927451
+    },
+    "weights-caches-08.zip": {
+      "sha256": "22da026ad31a319dee1144f464941d424f227441da9db70b2f95b75d96a663d8",
+      "size_bytes": 373457357
+    }
+  },
+  "all_original_27_Poly_54_Mu_150_SC_epoch_checkpoints_in_binary_volumes": true,
+  "saved_output_replay_is_not_independent_neural_regeneration": true,
+  "binary_upload_format": "Concatenate ordered .zip.partNNN byte chunks to reconstruct each independent weights-caches-NN.zip, then verify the full ZIP hash.",
+  "chunks": [
+    {
+      "name": "weights-caches-01.zip.part001",
+      "zip": "weights-caches-01.zip",
+      "offset": 0,
+      "size_bytes": 33554432,
+      "sha256": "6d9466cc83f75d157fa0f5e68a968175f04e2e344e85dfc644fb149a63f19f4b"
+    },
+    {
+      "name": "weights-caches-01.zip.part002",
+      "zip": "weights-caches-01.zip",
+      "offset": 33554432,
+      "size_bytes": 33554432,
+      "sha256": "fef71c1dfc1b92bf6f1213cd65ec064ed16394f00d499b6c7c7414f44a8ee6a5"
+    },
+    {
+      "name": "weights-caches-01.zip.part003",
+      "zip": "weights-caches-01.zip",
+      "offset": 67108864,
+      "size_bytes": 33554432,
+      "sha256": "3970cd1aed0f7aefd7756caa404cae577447cf1b6233fa18a1f85fe11e3aea12"
+    },
+    {
+      "name": "weights-caches-01.zip.part004",
+      "zip": "weights-caches-01.zip",
+      "offset": 100663296,
+      "size_bytes": 33554432,
+      "sha256": "bfc2e3694c5f2181c15d8f12952944f3fafc1c51ed455cd1b1eec3c1e36a8488"
+    },
+    {
+      "name": "weights-caches-01.zip.part005",
+      "zip": "weights-caches-01.zip",
+      "offset": 134217728,
+      "size_bytes": 33554432,
+      "sha256": "b560559bc0ae9a2a7dee85b86b8ddc7f90dcf0a0bf37f6d6708a8b8233eabb09"
+    },
+    {
+      "name": "weights-caches-01.zip.part006",
+      "zip": "weights-caches-01.zip",
+      "offset": 167772160,
+      "size_bytes": 33554432,
+      "sha256": "6e026b980b63aeeaa7e35634d169dadd1a16229d8aa490601cd3bdcea692415b"
+    },
+    {
+      "name": "weights-caches-01.zip.part007",
+      "zip": "weights-caches-01.zip",
+      "offset": 201326592,
+      "size_bytes": 33554432,
+      "sha256": "2892fdda255d6396d23876065ff969300b8037df48fc495d2d559948057e42e8"
+    },
+    {
+      "name": "weights-caches-01.zip.part008",
+      "zip": "weights-caches-01.zip",
+      "offset": 234881024,
+      "size_bytes": 33554432,
+      "sha256": "8399aec5f297aec6567f9aa57e487dde04e0fa1fd201ce811c156f4add50664e"
+    },
+    {
+      "name": "weights-caches-01.zip.part009",
+      "zip": "weights-caches-01.zip",
+      "offset": 268435456,
+      "size_bytes": 33554432,
+      "sha256": "7377db85cf9e2dcfe1b9591e4f27b9a60d142e4b0c73d1f097f9ce81d2972f2e"
+    },
+    {
+      "name": "weights-caches-01.zip.part010",
+      "zip": "weights-caches-01.zip",
+      "offset": 301989888,
+      "size_bytes": 33554432,
+      "sha256": "48e666fe71af53d514a2fd5c575a68e89c2435f22c14bc04b4319a7dda314ba0"
+    },
+    {
+      "name": "weights-caches-01.zip.part011",
+      "zip": "weights-caches-01.zip",
+      "offset": 335544320,
+      "size_bytes": 33554432,
+      "sha256": "225631a604730e58480c61fc215f4f4f2a6ce611e2060f1c1df7f21fc3b7d2af"
+    },
+    {
+      "name": "weights-caches-01.zip.part012",
+      "zip": "weights-caches-01.zip",
+      "offset": 369098752,
+      "size_bytes": 33554432,
+      "sha256": "e08afdfdc564f9803b08a5d3e739cd4badc0bd09f7738e9e3e32418589beccd9"
+    },
+    {
+      "name": "weights-caches-01.zip.part013",
+      "zip": "weights-caches-01.zip",
+      "offset": 402653184,
+      "size_bytes": 33554432,
+      "sha256": "22d1775371a3196359eeb87fd01dc984813761bc360e558379dccea363991044"
+    },
+    {
+      "name": "weights-caches-01.zip.part014",
+      "zip": "weights-caches-01.zip",
+      "offset": 436207616,
+      "size_bytes": 33554432,
+      "sha256": "b802b5cc463da4627ee1988c034bf7e45a5ba1f600de3e09ee7ddb9baa124bc9"
+    },
+    {
+      "name": "weights-caches-01.zip.part015",
+      "zip": "weights-caches-01.zip",
+      "offset": 469762048,
+      "size_bytes": 33554432,
+      "sha256": "5bf640c48de333e3b23db55345905e692fd57290d91d08b4811ccf8384bdbd79"
+    },
+    {
+      "name": "weights-caches-01.zip.part016",
+      "zip": "weights-caches-01.zip",
+      "offset": 503316480,
+      "size_bytes": 33554432,
+      "sha256": "bac96a7c075cbd9ebcf0fa60a05532564b8cac04f6ef620913a0ea7091ee3a07"
+    },
+    {
+      "name": "weights-caches-01.zip.part017",
+      "zip": "weights-caches-01.zip",
+      "offset": 536870912,
+      "size_bytes": 33554432,
+      "sha256": "7eb3a741b1e57d242400231b1789606e6bdd6ceb2274be8b44828ba394429e8c"
+    },
+    {
+      "name": "weights-caches-01.zip.part018",
+      "zip": "weights-caches-01.zip",
+      "offset": 570425344,
+      "size_bytes": 33554432,
+      "sha256": "0e30862a4f992a8c0c0b5c86a501ab5efdb19fb941511f7a3cc651e187c6c169"
+    },
+    {
+      "name": "weights-caches-01.zip.part019",
+      "zip": "weights-caches-01.zip",
+      "offset": 603979776,
+      "size_bytes": 33554432,
+      "sha256": "fc3e11e9e4e9dc09eec86105fdfd9b37adef0d3ea80c28ef6252fdb14c04dde6"
+    },
+    {
+      "name": "weights-caches-01.zip.part020",
+      "zip": "weights-caches-01.zip",
+      "offset": 637534208,
+      "size_bytes": 33554432,
+      "sha256": "bd156e36d524f88c38a600b25887e92ec313a1ad5eb6bf66642cbeeeaa353fcb"
+    },
+    {
+      "name": "weights-caches-01.zip.part021",
+      "zip": "weights-caches-01.zip",
+      "offset": 671088640,
+      "size_bytes": 33554432,
+      "sha256": "c6534fefa656afe16c9615d58d5b31f89fdad04f8d607baee92d490bfef312b1"
+    },
+    {
+      "name": "weights-caches-01.zip.part022",
+      "zip": "weights-caches-01.zip",
+      "offset": 704643072,
+      "size_bytes": 33554432,
+      "sha256": "2a102a0434d89d9275f0c7b774f688f7ec52a3110d92975d30eda9a949266013"
+    },
+    {
+      "name": "weights-caches-01.zip.part023",
+      "zip": "weights-caches-01.zip",
+      "offset": 738197504,
+      "size_bytes": 33554432,
+      "sha256": "1e6c7fbf0a547bb6877705e028c1919454c4adc34415597e5d7852841acbe221"
+    },
+    {
+      "name": "weights-caches-01.zip.part024",
+      "zip": "weights-caches-01.zip",
+      "offset": 771751936,
+      "size_bytes": 33554432,
+      "sha256": "3454daa74aebd6e9c17318dba089f6842d5d1b54d72bf95be04520f22451e420"
+    },
+    {
+      "name": "weights-caches-01.zip.part025",
+      "zip": "weights-caches-01.zip",
+      "offset": 805306368,
+      "size_bytes": 33554432,
+      "sha256": "7c02685f57937a0eb8a0d0f846eb55b144199470e13035868f19934733afddec"
+    },
+    {
+      "name": "weights-caches-01.zip.part026",
+      "zip": "weights-caches-01.zip",
+      "offset": 838860800,
+      "size_bytes": 33554432,
+      "sha256": "8b033775a46eefdd7ed6577e1d414fd26c36cf75dc3b7d9b936265eb727e315a"
+    },
+    {
+      "name": "weights-caches-01.zip.part027",
+      "zip": "weights-caches-01.zip",
+      "offset": 872415232,
+      "size_bytes": 33554432,
+      "sha256": "333a84847e2245d8e274e9380b14633b4a2789f6c5c0b6f1c26809a9f5234ab2"
+    },
+    {
+      "name": "weights-caches-01.zip.part028",
+      "zip": "weights-caches-01.zip",
+      "offset": 905969664,
+      "size_bytes": 33554432,
+      "sha256": "3784079781aca25bb2994f4da2ece855859be50c674f86e7f5b3ddd4d9402cef"
+    },
+    {
+      "name": "weights-caches-01.zip.part029",
+      "zip": "weights-caches-01.zip",
+      "offset": 939524096,
+      "size_bytes": 33554432,
+      "sha256": "8d96981c00c0b5412bc43d371c7bbf7ea9ae8d6aa99b42b8533799699cf9608b"
+    },
+    {
+      "name": "weights-caches-01.zip.part030",
+      "zip": "weights-caches-01.zip",
+      "offset": 973078528,
+      "size_bytes": 33554432,
+      "sha256": "557cc13be54365d25f86db13523533a3b5d27d54ca98bca0a03911beb2b97a33"
+    },
+    {
+      "name": "weights-caches-01.zip.part031",
+      "zip": "weights-caches-01.zip",
+      "offset": 1006632960,
+      "size_bytes": 33554432,
+      "sha256": "f23ed260203c3d877ccf5d3ca6a1f43cc874de1d15bdbf8486f5891ac03f87b8"
+    },
+    {
+      "name": "weights-caches-01.zip.part032",
+      "zip": "weights-caches-01.zip",
+      "offset": 1040187392,
+      "size_bytes": 33554432,
+      "sha256": "8034359aa31b8d73547250577451e2cfb45de57f44bb933692a35f2e52410a0f"
+    },
+    {
+      "name": "weights-caches-01.zip.part033",
+      "zip": "weights-caches-01.zip",
+      "offset": 1073741824,
+      "size_bytes": 33554432,
+      "sha256": "eb24634f19503e3dcad424805335310269a548d18c3cb2f4ee26558da4ded1e7"
+    },
+    {
+      "name": "weights-caches-01.zip.part034",
+      "zip": "weights-caches-01.zip",
+      "offset": 1107296256,
+      "size_bytes": 33554432,
+      "sha256": "f8173837d5e0aee01c9caca03ef4c4b426788deab790ee23a4d75f3b82ce8aac"
+    },
+    {
+      "name": "weights-caches-01.zip.part035",
+      "zip": "weights-caches-01.zip",
+      "offset": 1140850688,
+      "size_bytes": 33554432,
+      "sha256": "17b54a47096460e88eed440a84a9306371f7d1a40d9c6157acc5241bf107b34a"
+    },
+    {
+      "name": "weights-caches-01.zip.part036",
+      "zip": "weights-caches-01.zip",
+      "offset": 1174405120,
+      "size_bytes": 33554432,
+      "sha256": "6b37c3e70a676899546991b290ac93f0d6da7c6562843eb757061ec1a48be64a"
+    },
+    {
+      "name": "weights-caches-01.zip.part037",
+      "zip": "weights-caches-01.zip",
+      "offset": 1207959552,
+      "size_bytes": 33554432,
+      "sha256": "34ae5739201f8124ed1e984a814701d8a9f0aa59377fda9d51b88f16e7c74341"
+    },
+    {
+      "name": "weights-caches-01.zip.part038",
+      "zip": "weights-caches-01.zip",
+      "offset": 1241513984,
+      "size_bytes": 33554432,
+      "sha256": "cc6e3c6358c90ca27e57dc3b584931edf1c0e5208b401c16661371f587fec414"
+    },
+    {
+      "name": "weights-caches-01.zip.part039",
+      "zip": "weights-caches-01.zip",
+      "offset": 1275068416,
+      "size_bytes": 33554432,
+      "sha256": "2455a2a672bac28528a0cb550e3d8a377810ad15a9d2b6a5dd1939489484cc14"
+    },
+    {
+      "name": "weights-caches-01.zip.part040",
+      "zip": "weights-caches-01.zip",
+      "offset": 1308622848,
+      "size_bytes": 33554432,
+      "sha256": "01c1c259a5ea3ff98aa76c83572d21db3a3fbe9fc017c700b3fc96a018833966"
+    },
+    {
+      "name": "weights-caches-01.zip.part041",
+      "zip": "weights-caches-01.zip",
+      "offset": 1342177280,
+      "size_bytes": 30185754,
+      "sha256": "5e252b96303dfbbcd5e5505a7e8fb0e1e715f72cb23710f90addf9102cf8e5b4"
+    },
+    {
+      "name": "weights-caches-02.zip.part001",
+      "zip": "weights-caches-02.zip",
+      "offset": 0,
+      "size_bytes": 33554432,
+      "sha256": "3835e7e14549bf8449d2bc9e1f3787b69127b368ab8e7e7d870d619652c68828"
+    },
+    {
+      "name": "weights-caches-02.zip.part002",
+      "zip": "weights-caches-02.zip",
+      "offset": 33554432,
+      "size_bytes": 33554432,
+      "sha256": "1e3be2955ae6558f29775dfa18692bdcd6017dcbe335f3c23f60f1d241131555"
+    },
+    {
+      "name": "weights-caches-02.zip.part003",
+      "zip": "weights-caches-02.zip",
+      "offset": 67108864,
+      "size_bytes": 33554432,
+      "sha256": "c725395927f9893b3f6bfa3c0905e9e7252cae8fbb26222099d0703dd4e23dd4"
+    },
+    {
+      "name": "weights-caches-02.zip.part004",
+      "zip": "weights-caches-02.zip",
+      "offset": 100663296,
+      "size_bytes": 33554432,
+      "sha256": "33ef83046f9ef05669c5197d74d455f0615d50580750667e1351b1c8ba626e69"
+    },
+    {
+      "name": "weights-caches-02.zip.part005",
+      "zip": "weights-caches-02.zip",
+      "offset": 134217728,
+      "size_bytes": 33554432,
+      "sha256": "32184342bac953ea588c7e2ad79fba5095cfc4595e0b42353d87e05d87dfd28f"
+    },
+    {
+      "name": "weights-caches-02.zip.part006",
+      "zip": "weights-caches-02.zip",
+      "offset": 167772160,
+      "size_bytes": 33554432,
+      "sha256": "2bb86024a0dd16b8389a70ca2687529478bc403c86de22517df7b90145ad2726"
+    },
+    {
+      "name": "weights-caches-02.zip.part007",
+      "zip": "weights-caches-02.zip",
+      "offset": 201326592,
+      "size_bytes": 33554432,
+      "sha256": "6f07de2ca719c2ef596afaecaf1b1398aceb85d274aa0b64f57b10ce6ec53936"
+    },
+    {
+      "name": "weights-caches-02.zip.part008",
+      "zip": "weights-caches-02.zip",
+      "offset": 234881024,
+      "size_bytes": 33554432,
+      "sha256": "51ab5c4d80f7f2f2b6add5ac2833889303c92873f8d7be852f3adc3d323e7db8"
+    },
+    {
+      "name": "weights-caches-02.zip.part009",
+      "zip": "weights-caches-02.zip",
+      "offset": 268435456,
+      "size_bytes": 33554432,
+      "sha256": "48b307b7ec2945cf656f0de953e96ff03e4cd1903db93693ec4427addb6b71e3"
+    },
+    {
+      "name": "weights-caches-02.zip.part010",
+      "zip": "weights-caches-02.zip",
+      "offset": 301989888,
+      "size_bytes": 33554432,
+      "sha256": "bd2253a01bb1b3e4b5f9f19158c455e8dadd1a9c8bdffca10b182ca185ea03ca"
+    },
+    {
+      "name": "weights-caches-02.zip.part011",
+      "zip": "weights-caches-02.zip",
+      "offset": 335544320,
+      "size_bytes": 33554432,
+      "sha256": "875cefa1afabe80002b8df44afafc55d6e21629f9dd0703ef69ccdf41c5bb6a4"
+    },
+    {
+      "name": "weights-caches-02.zip.part012",
+      "zip": "weights-caches-02.zip",
+      "offset": 369098752,
+      "size_bytes": 33554432,
+      "sha256": "32289628073418568bc7ec8f822928ae366d0d82fe1bebe8c319436ce034775d"
+    },
+    {
+      "name": "weights-caches-02.zip.part013",
+      "zip": "weights-caches-02.zip",
+      "offset": 402653184,
+      "size_bytes": 33554432,
+      "sha256": "390b35e900d4d846ea1d16a83cc05a2075b6245811661bc0c41d5d4301f5bff1"
+    },
+    {
+      "name": "weights-caches-02.zip.part014",
+      "zip": "weights-caches-02.zip",
+      "offset": 436207616,
+      "size_bytes": 33554432,
+      "sha256": "7da52d1ca973923807b2b0b9828145c84adfad7de389964cace373ad3d5349b7"
+    },
+    {
+      "name": "weights-caches-02.zip.part015",
+      "zip": "weights-caches-02.zip",
+      "offset": 469762048,
+      "size_bytes": 33554432,
+      "sha256": "92062172661268cd19d2fcb22344c728e0ebb9bd4479aa7c77e4c30193697204"
+    },
+    {
+      "name": "weights-caches-02.zip.part016",
+      "zip": "weights-caches-02.zip",
+      "offset": 503316480,
+      "size_bytes": 33554432,
+      "sha256": "966a52c9968966d655cc7eef2e67c7700d1c732333ac681b19be038f8a4b3503"
+    },
+    {
+      "name": "weights-caches-02.zip.part017",
+      "zip": "weights-caches-02.zip",
+      "offset": 536870912,
+      "size_bytes": 33554432,
+      "sha256": "bdf486092fdd8331805dd497e1bc8c6e4f76740b88ff11495cff8ab6cc5e79a6"
+    },
+    {
+      "name": "weights-caches-02.zip.part018",
+      "zip": "weights-caches-02.zip",
+      "offset": 570425344,
+      "size_bytes": 33554432,
+      "sha256": "cea4ac0a8ba8e02a07cdccfdec6c3158968ee3b922bad06ae709415e61c3b655"
+    },
+    {
+      "name": "weights-caches-02.zip.part019",
+      "zip": "weights-caches-02.zip",
+      "offset": 603979776,
+      "size_bytes": 33554432,
+      "sha256": "8671a6b71631bae367c89b5349c9c3e9e2b2471b0bd2a75719e8a4f14db19f11"
+    },
+    {
+      "name": "weights-caches-02.zip.part020",
+      "zip": "weights-caches-02.zip",
+      "offset": 637534208,
+      "size_bytes": 33554432,
+      "sha256": "2c60483dabf512d6d8e96f13169f738b2d686f2e34f8f375089547f60217bb1c"
+    },
+    {
+      "name": "weights-caches-02.zip.part021",
+      "zip": "weights-caches-02.zip",
+      "offset": 671088640,
+      "size_bytes": 33554432,
+      "sha256": "c669b8b472e432d08c5812598f092433413b06b7623697f339e795b91a9c0003"
+    },
+    {
+      "name": "weights-caches-02.zip.part022",
+      "zip": "weights-caches-02.zip",
+      "offset": 704643072,
+      "size_bytes": 33554432,
+      "sha256": "8ca4f4e1556642cda14333a4fd5ae782c910c3eb181dd6183483d4fb2a60ac43"
+    },
+    {
+      "name": "weights-caches-02.zip.part023",
+      "zip": "weights-caches-02.zip",
+      "offset": 738197504,
+      "size_bytes": 33554432,
+      "sha256": "7b9de92153288adc6cbd16b2d0c083c00bd8526c5e4432efdfa469975a8f4d29"
+    },
+    {
+      "name": "weights-caches-02.zip.part024",
+      "zip": "weights-caches-02.zip",
+      "offset": 771751936,
+      "size_bytes": 33554432,
+      "sha256": "0c0046307410f243713bde71352e3113aa855491681aba63a14549255095ea74"
+    },
+    {
+      "name": "weights-caches-02.zip.part025",
+      "zip": "weights-caches-02.zip",
+      "offset": 805306368,
+      "size_bytes": 33554432,
+      "sha256": "148073b040f12d95d240702026ab688147e5c57ccd261cb2788f9ccd7f01c8ee"
+    },
+    {
+      "name": "weights-caches-02.zip.part026",
+      "zip": "weights-caches-02.zip",
+      "offset": 838860800,
+      "size_bytes": 33554432,
+      "sha256": "9829662bdd56aee50c00e953acc7f0d6ba646099162c243fc6e9546a9a6a6d17"
+    },
+    {
+      "name": "weights-caches-02.zip.part027",
+      "zip": "weights-caches-02.zip",
+      "offset": 872415232,
+      "size_bytes": 33554432,
+      "sha256": "249c1672b22d8eb14a8096625a3bbca4a3b7845e9a8682c12f17e894c455b95a"
+    },
+    {
+      "name": "weights-caches-02.zip.part028",
+      "zip": "weights-caches-02.zip",
+      "offset": 905969664,
+      "size_bytes": 33554432,
+      "sha256": "7f284824b835ecc4b55a6ddcadabbb2abc5a734c3ba96402b8f4476238cfce42"
+    },
+    {
+      "name": "weights-caches-02.zip.part029",
+      "zip": "weights-caches-02.zip",
+      "offset": 939524096,
+      "size_bytes": 33554432,
+      "sha256": "b8121a45100cc6142f022e1ee0b4772bd4f1b2e77b90abd97cfd641782c2c32b"
+    },
+    {
+      "name": "weights-caches-02.zip.part030",
+      "zip": "weights-caches-02.zip",
+      "offset": 973078528,
+      "size_bytes": 33554432,
+      "sha256": "644e10ac409db7f1e4927ab3a9ce754cf0021dd2b6c396fd42ba66681ed7c263"
+    },
+    {
+      "name": "weights-caches-02.zip.part031",
+      "zip": "weights-caches-02.zip",
+      "offset": 1006632960,
+      "size_bytes": 33554432,
+      "sha256": "3f08142dc455ce96881e303c90e732c2b8b19d27718996fcb76d303b743e28fc"
+    },
+    {
+      "name": "weights-caches-02.zip.part032",
+      "zip": "weights-caches-02.zip",
+      "offset": 1040187392,
+      "size_bytes": 33554432,
+      "sha256": "df2aaf9fcd2f9bc001609bbdf44ce28e87e0fa44fe5b6cd4ff0fe994a686b922"
+    },
+    {
+      "name": "weights-caches-02.zip.part033",
+      "zip": "weights-caches-02.zip",
+      "offset": 1073741824,
+      "size_bytes": 33554432,
+      "sha256": "e12a8dc2e2094b7d9bbd4203840997669639409b89e166482ec9ed5813d65b67"
+    },
+    {
+      "name": "weights-caches-02.zip.part034",
+      "zip": "weights-caches-02.zip",
+      "offset": 1107296256,
+      "size_bytes": 33554432,
+      "sha256": "06f6bf83af9ed32cf68f7619a16cb7c7c3358ba069b29b295318bac56c9529e5"
+    },
+    {
+      "name": "weights-caches-02.zip.part035",
+      "zip": "weights-caches-02.zip",
+      "offset": 1140850688,
+      "size_bytes": 33554432,
+      "sha256": "570503c247617210b06c307feac1cd3a6048b6a1a0bf559ede10dd11d1993e0d"
+    },
+    {
+      "name": "weights-caches-02.zip.part036",
+      "zip": "weights-caches-02.zip",
+      "offset": 1174405120,
+      "size_bytes": 33554432,
+      "sha256": "cb8122776b78ff019560bdbe13c5214fee4811056dfe17babdcaf69abcaadaaa"
+    },
+    {
+      "name": "weights-caches-02.zip.part037",
+      "zip": "weights-caches-02.zip",
+      "offset": 1207959552,
+      "size_bytes": 33554432,
+      "sha256": "7e6d627c9a7b2f7bbc8ce3602b74183b33938598fd6215943e976716199fc358"
+    },
+    {
+      "name": "weights-caches-02.zip.part038",
+      "zip": "weights-caches-02.zip",
+      "offset": 1241513984,
+      "size_bytes": 33554432,
+      "sha256": "dd858a1e4b0220984aaf7ad85af1db905550749b34f63383444ac575fc6a70e6"
+    },
+    {
+      "name": "weights-caches-02.zip.part039",
+      "zip": "weights-caches-02.zip",
+      "offset": 1275068416,
+      "size_bytes": 33554432,
+      "sha256": "09a2d51a9ad5427914d498605eb4655bfc2c2c3e257bd4308c1559a713e36ccb"
+    },
+    {
+      "name": "weights-caches-02.zip.part040",
+      "zip": "weights-caches-02.zip",
+      "offset": 1308622848,
+      "size_bytes": 33554432,
+      "sha256": "453d7b30809afcf78d8371a88863ef0cb498e14218f4df62df10367059180ecd"
+    },
+    {
+      "name": "weights-caches-02.zip.part041",
+      "zip": "weights-caches-02.zip",
+      "offset": 1342177280,
+      "size_bytes": 33554432,
+      "sha256": "98e70e64acef74f32684b2fb04469ea2d92c6eb8e0a18fc16e4cc677701fa06c"
+    },
+    {
+      "name": "weights-caches-02.zip.part042",
+      "zip": "weights-caches-02.zip",
+      "offset": 1375731712,
+      "size_bytes": 15032120,
+      "sha256": "9d24876def6743e0472dd773fe719f68c6d21e323acb06668b64a515104868e4"
+    },
+    {
+      "name": "weights-caches-03.zip.part001",
+      "zip": "weights-caches-03.zip",
+      "offset": 0,
+      "size_bytes": 33554432,
+      "sha256": "9a5a2fa545728d423eff207c098b7f2254f5646233c1d7634d9cff85405217d9"
+    },
+    {
+      "name": "weights-caches-03.zip.part002",
+      "zip": "weights-caches-03.zip",
+      "offset": 33554432,
+      "size_bytes": 33554432,
+      "sha256": "f7674392f1e5d32c39cd7dabdb5ead28bbe840293dc47a9fb0e474ba9f9bb202"
+    },
+    {
+      "name": "weights-caches-03.zip.part003",
+      "zip": "weights-caches-03.zip",
+      "offset": 67108864,
+      "size_bytes": 33554432,
+      "sha256": "47f7a738a4e51ce8196097cf939c14ca8abedb59831a2617ec218b3f7783bdb9"
+    },
+    {
+      "name": "weights-caches-03.zip.part004",
+      "zip": "weights-caches-03.zip",
+      "offset": 100663296,
+      "size_bytes": 33554432,
+      "sha256": "49249eff5f2c7d7319ae56f0c99e7bcfd26fbbdbb2f5c33f8c5ca419cc6de7ed"
+    },
+    {
+      "name": "weights-caches-03.zip.part005",
+      "zip": "weights-caches-03.zip",
+      "offset": 134217728,
+      "size_bytes": 33554432,
+      "sha256": "613479c729e2e9138c2b08a7cbab1865db797c278254cbbd638c438ed3ca362f"
+    },
+    {
+      "name": "weights-caches-03.zip.part006",
+      "zip": "weights-caches-03.zip",
+      "offset": 167772160,
+      "size_bytes": 33554432,
+      "sha256": "d1f405f47f68fbe224df8e9f8b1efcee80209cdf83ddb21b68fdfb005e9be992"
+    },
+    {
+      "name": "weights-caches-03.zip.part007",
+      "zip": "weights-caches-03.zip",
+      "offset": 201326592,
+      "size_bytes": 33554432,
+      "sha256": "38e6837ca322ba2ea24c33384934f7b9d8b050cd1aed8b633de8ef00b8c578a5"
+    },
+    {
+      "name": "weights-caches-03.zip.part008",
+      "zip": "weights-caches-03.zip",
+      "offset": 234881024,
+      "size_bytes": 33554432,
+      "sha256": "3081b943724e174185b7cf21d2cc8cc20b531c3063ab738ff98231ea59eebf74"
+    },
+    {
+      "name": "weights-caches-03.zip.part009",
+      "zip": "weights-caches-03.zip",
+      "offset": 268435456,
+      "size_bytes": 33554432,
+      "sha256": "e75cb15a32bb519c65cc99acc3f723148fb7d1dde49ba39faa0b4860faa5edb4"
+    },
+    {
+      "name": "weights-caches-03.zip.part010",
+      "zip": "weights-caches-03.zip",
+      "offset": 301989888,
+      "size_bytes": 33554432,
+      "sha256": "5604dfaf4facf7b46fee4734382bbe413df60daff13319b1ee2d0a1f566683e3"
+    },
+    {
+      "name": "weights-caches-03.zip.part011",
+      "zip": "weights-caches-03.zip",
+      "offset": 335544320,
+      "size_bytes": 33554432,
+      "sha256": "9dd0ac5654f17af7aa69d064247c4dee69b483a8bd913ce657901e0b83652221"
+    },
+    {
+      "name": "weights-caches-03.zip.part012",
+      "zip": "weights-caches-03.zip",
+      "offset": 369098752,
+      "size_bytes": 33554432,
+      "sha256": "3eee9ff3f70775f097f984fc81d938a805fce2352d130c62fd1d9de74bcd0232"
+    },
+    {
+      "name": "weights-caches-03.zip.part013",
+      "zip": "weights-caches-03.zip",
+      "offset": 402653184,
+      "size_bytes": 33554432,
+      "sha256": "45248a917dd795d21fc594ebb5518c508fcb5e6b49ec24ef89a94434fe43fcbe"
+    },
+    {
+      "name": "weights-caches-03.zip.part014",
+      "zip": "weights-caches-03.zip",
+      "offset": 436207616,
+      "size_bytes": 33554432,
+      "sha256": "4ab95250716fe2d6215e524392aa596f353fffbb5f86fa8e0592a890b4ae7880"
+    },
+    {
+      "name": "weights-caches-03.zip.part015",
+      "zip": "weights-caches-03.zip",
+      "offset": 469762048,
+      "size_bytes": 33554432,
+      "sha256": "ac616927574fb6b6eb92d405ff1d3ad07db946fa5b9aa5305c4e10fb95d1b87a"
+    },
+    {
+      "name": "weights-caches-03.zip.part016",
+      "zip": "weights-caches-03.zip",
+      "offset": 503316480,
+      "size_bytes": 33554432,
+      "sha256": "66d34cbda11e979c442aba236ee90c380784451fa8e82917b8d2c20fb1949982"
+    },
+    {
+      "name": "weights-caches-03.zip.part017",
+      "zip": "weights-caches-03.zip",
+      "offset": 536870912,
+      "size_bytes": 33554432,
+      "sha256": "ece8fbd3850927dc4c0f90f6d4099d79422bf77ed5825fd2767f0e1979c24ee5"
+    },
+    {
+      "name": "weights-caches-03.zip.part018",
+      "zip": "weights-caches-03.zip",
+      "offset": 570425344,
+      "size_bytes": 33554432,
+      "sha256": "9aa057aa25876fee11387b80e5d2d5659559f9339f3d38a887d81497db338f09"
+    },
+    {
+      "name": "weights-caches-03.zip.part019",
+      "zip": "weights-caches-03.zip",
+      "offset": 603979776,
+      "size_bytes": 33554432,
+      "sha256": "602b052994a232382ca9dc59bfd222a8fae5163e81330607df0dd0cf61a142b1"
+    },
+    {
+      "name": "weights-caches-03.zip.part020",
+      "zip": "weights-caches-03.zip",
+      "offset": 637534208,
+      "size_bytes": 33554432,
+      "sha256": "04bac14a1cafcd48baaf05b4670f3fbc012272f16781b38985b9aa72df78deef"
+    },
+    {
+      "name": "weights-caches-03.zip.part021",
+      "zip": "weights-caches-03.zip",
+      "offset": 671088640,
+      "size_bytes": 33554432,
+      "sha256": "751e0cf8823341571110eac8bd59cc6bf082e4f2cffd8f8af07497a8c7c2c7ac"
+    },
+    {
+      "name": "weights-caches-03.zip.part022",
+      "zip": "weights-caches-03.zip",
+      "offset": 704643072,
+      "size_bytes": 33554432,
+      "sha256": "634112cc5df34e9fcd9e37ac2a26de95865588e481df4f8c57110ecee4114255"
+    },
+    {
+      "name": "weights-caches-03.zip.part023",
+      "zip": "weights-caches-03.zip",
+      "offset": 738197504,
+      "size_bytes": 33554432,
+      "sha256": "6b7ac4dce6beeeefeb418e71aa7f688042d99fbf562a8c265a29f402b9661188"
+    },
+    {
+      "name": "weights-caches-03.zip.part024",
+      "zip": "weights-caches-03.zip",
+      "offset": 771751936,
+      "size_bytes": 33554432,
+      "sha256": "61148d818754baa9599eb1f1402b62e59c46be7c2e430fac1de8a122b427bc48"
+    },
+    {
+      "name": "weights-caches-03.zip.part025",
+      "zip": "weights-caches-03.zip",
+      "offset": 805306368,
+      "size_bytes": 33554432,
+      "sha256": "6e1b1fbc7e839642d0e26fb9934243c43685b3727b20b28b08a55f0784e317e8"
+    },
+    {
+      "name": "weights-caches-03.zip.part026",
+      "zip": "weights-caches-03.zip",
+      "offset": 838860800,
+      "size_bytes": 33554432,
+      "sha256": "fbe93d531ea04120aa0bd1c4be40b1f973bf58b302030db5b8c78ae35b216854"
+    },
+    {
+      "name": "weights-caches-03.zip.part027",
+      "zip": "weights-caches-03.zip",
+      "offset": 872415232,
+      "size_bytes": 33554432,
+      "sha256": "fdeec04c3e4f6dd69d01394e09e2021787a93c7713eb88674dee159fb5cb3cd3"
+    },
+    {
+      "name": "weights-caches-03.zip.part028",
+      "zip": "weights-caches-03.zip",
+      "offset": 905969664,
+      "size_bytes": 33554432,
+      "sha256": "aad99bcdcb83a12330c35d9203a3057bbc2158d6d13981855679ff4d39e8a4c3"
+    },
+    {
+      "name": "weights-caches-03.zip.part029",
+      "zip": "weights-caches-03.zip",
+      "offset": 939524096,
+      "size_bytes": 33554432,
+      "sha256": "66f02f73e2f1cf00fcbe32d22e95a25b94aeff7d94ff04ea9141604f235e9c01"
+    },
+    {
+      "name": "weights-caches-03.zip.part030",
+      "zip": "weights-caches-03.zip",
+      "offset": 973078528,
+      "size_bytes": 33554432,
+      "sha256": "07ccdd9d406b6fdbb972973345ef5c25294c08eecf4826d64438894d17feebd0"
+    },
+    {
+      "name": "weights-caches-03.zip.part031",
+      "zip": "weights-caches-03.zip",
+      "offset": 1006632960,
+      "size_bytes": 33554432,
+      "sha256": "1f0c28eb871158e0cedd00de6a3e3642d583eeaadd3c6e5585e8008160094434"
+    },
+    {
+      "name": "weights-caches-03.zip.part032",
+      "zip": "weights-caches-03.zip",
+      "offset": 1040187392,
+      "size_bytes": 33554432,
+      "sha256": "7e1e1c0f583d3dfbf47bd96fef0825e3a42ff0678d76c5ff30ec63206cf5bff2"
+    },
+    {
+      "name": "weights-caches-03.zip.part033",
+      "zip": "weights-caches-03.zip",
+      "offset": 1073741824,
+      "size_bytes": 33554432,
+      "sha256": "7ba5cc07b4e5b290a25bb2c14886ba689f468fdf7586744d09b24e3bf506d808"
+    },
+    {
+      "name": "weights-caches-03.zip.part034",
+      "zip": "weights-caches-03.zip",
+      "offset": 1107296256,
+      "size_bytes": 33554432,
+      "sha256": "6a67b6fcd9ef5166d852076dd13ff782bd95c9d95b6d0707feeb999495bc9d11"
+    },
+    {
+      "name": "weights-caches-03.zip.part035",
+      "zip": "weights-caches-03.zip",
+      "offset": 1140850688,
+      "size_bytes": 33554432,
+      "sha256": "ef93a42963f19157210795e5fe65bad57574317a50c509581d1d0d15d9aef312"
+    },
+    {
+      "name": "weights-caches-03.zip.part036",
+      "zip": "weights-caches-03.zip",
+      "offset": 1174405120,
+      "size_bytes": 33554432,
+      "sha256": "8295c66b407a82da9e4ba43b36b22fe8070e9d1209a2d10a55d2e9d59e025ef0"
+    },
+    {
+      "name": "weights-caches-03.zip.part037",
+      "zip": "weights-caches-03.zip",
+      "offset": 1207959552,
+      "size_bytes": 33554432,
+      "sha256": "b0f724652abf672337a37f17f9034e48be1b3304a533f6c4745189ba79367f3e"
+    },
+    {
+      "name": "weights-caches-03.zip.part038",
+      "zip": "weights-caches-03.zip",
+      "offset": 1241513984,
+      "size_bytes": 33554432,
+      "sha256": "1a2643026733d3a454eb8b1daf30495b7ad3921e89c71902051cbbb2fa52cc64"
+    },
+    {
+      "name": "weights-caches-03.zip.part039",
+      "zip": "weights-caches-03.zip",
+      "offset": 1275068416,
+      "size_bytes": 33554432,
+      "sha256": "106cf4ef5b65a19d11ecda99cd6e7c720867803928888013bde11056f313a21d"
+    },
+    {
+      "name": "weights-caches-03.zip.part040",
+      "zip": "weights-caches-03.zip",
+      "offset": 1308622848,
+      "size_bytes": 33554432,
+      "sha256": "cdb9982e09e6e607778257a4e6473f0887511438845517c52b8f4154e91ac5dd"
+    },
+    {
+      "name": "weights-caches-03.zip.part041",
+      "zip": "weights-caches-03.zip",
+      "offset": 1342177280,
+      "size_bytes": 33554432,
+      "sha256": "e156f23fc53371a86f0c94230bb968e0959d500c11c5fbde7bb41e0cd3998825"
+    },
+    {
+      "name": "weights-caches-03.zip.part042",
+      "zip": "weights-caches-03.zip",
+      "offset": 1375731712,
+      "size_bytes": 14591028,
+      "sha256": "65dd606e2a68efa5150616564417d67bbeeb8975dab428fc054bcaf6afbe981e"
+    },
+    {
+      "name": "weights-caches-04.zip.part001",
+      "zip": "weights-caches-04.zip",
+      "offset": 0,
+      "size_bytes": 33554432,
+      "sha256": "ce6e0beba9a352f44edefcb716912f5b5e951787d5fc99008d9e6e15f3b220bb"
+    },
+    {
+      "name": "weights-caches-04.zip.part002",
+      "zip": "weights-caches-04.zip",
+      "offset": 33554432,
+      "size_bytes": 33554432,
+      "sha256": "76d90e9908fc034342dcec95d5c04617cec97ed63aec19c74dd4a49974654c9d"
+    },
+    {
+      "name": "weights-caches-04.zip.part003",
+      "zip": "weights-caches-04.zip",
+      "offset": 67108864,
+      "size_bytes": 33554432,
+      "sha256": "ee46d8d9e39b98463e1fbc7410def280454686e0dda9acffd94d47df11bd375d"
+    },
+    {
+      "name": "weights-caches-04.zip.part004",
+      "zip": "weights-caches-04.zip",
+      "offset": 100663296,
+      "size_bytes": 33554432,
+      "sha256": "37bdfe51560e67cb87ed2bcc71e11af276aae192846bf6315b03659209c42e21"
+    },
+    {
+      "name": "weights-caches-04.zip.part005",
+      "zip": "weights-caches-04.zip",
+      "offset": 134217728,
+      "size_bytes": 33554432,
+      "sha256": "9472394e9c273f06a6fc022bfcd70cfbb9db13a1908c8c8533588d3ada32b70c"
+    },
+    {
+      "name": "weights-caches-04.zip.part006",
+      "zip": "weights-caches-04.zip",
+      "offset": 167772160,
+      "size_bytes": 33554432,
+      "sha256": "9d733c03ae49cb6afd0ea94231439a3b6d73cce9ea973dd45593cd4a6b8fff66"
+    },
+    {
+      "name": "weights-caches-04.zip.part007",
+      "zip": "weights-caches-04.zip",
+      "offset": 201326592,
+      "size_bytes": 33554432,
+      "sha256": "357626bfb15fd8e400034e109220e658423b919abb5eda85b11ec70ccef14d02"
+    },
+    {
+      "name": "weights-caches-04.zip.part008",
+      "zip": "weights-caches-04.zip",
+      "offset": 234881024,
+      "size_bytes": 33554432,
+      "sha256": "0c35cc8c474b6f3fdcf153d99269949a7aa719bc1e53b0c2b333d5da5eb319c2"
+    },
+    {
+      "name": "weights-caches-04.zip.part009",
+      "zip": "weights-caches-04.zip",
+      "offset": 268435456,
+      "size_bytes": 33554432,
+      "sha256": "a633973caf3e7fbac2f1e34ba15b8e8863faac9c856cbad0283369455334f2c8"
+    },
+    {
+      "name": "weights-caches-04.zip.part010",
+      "zip": "weights-caches-04.zip",
+      "offset": 301989888,
+      "size_bytes": 33554432,
+      "sha256": "b9cb41c6070617e910486d8bdd795231ca32e3413f59fcc1131a0f50b7c14c80"
+    },
+    {
+      "name": "weights-caches-04.zip.part011",
+      "zip": "weights-caches-04.zip",
+      "offset": 335544320,
+      "size_bytes": 33554432,
+      "sha256": "8c22fe0c602f3c71ec59f7e847cdf2a26b1a7092b264aede38ba0fb1d71edd8a"
+    },
+    {
+      "name": "weights-caches-04.zip.part012",
+      "zip": "weights-caches-04.zip",
+      "offset": 369098752,
+      "size_bytes": 33554432,
+      "sha256": "e023f2470dfd980f832c84bce0651579a9be873fb16261b63775f018756341f2"
+    },
+    {
+      "name": "weights-caches-04.zip.part013",
+      "zip": "weights-caches-04.zip",
+      "offset": 402653184,
+      "size_bytes": 33554432,
+      "sha256": "ae977ced148a76b2aa8b2f157e9e6d1b4c550d111adef2b07b71207e060a4047"
+    },
+    {
+      "name": "weights-caches-04.zip.part014",
+      "zip": "weights-caches-04.zip",
+      "offset": 436207616,
+      "size_bytes": 33554432,
+      "sha256": "2979e7229f8749053362a2837cc5d19d403b7fc655926362c4e359896b60b055"
+    },
+    {
+      "name": "weights-caches-04.zip.part015",
+      "zip": "weights-caches-04.zip",
+      "offset": 469762048,
+      "size_bytes": 33554432,
+      "sha256": "6d62a89fe4772d45d59a38a07823e38dd6363092538b0d3a2b1d406d9c9a69f9"
+    },
+    {
+      "name": "weights-caches-04.zip.part016",
+      "zip": "weights-caches-04.zip",
+      "offset": 503316480,
+      "size_bytes": 33554432,
+      "sha256": "7c76e4273ca61873384fc2cda2a2a76919683a09c7a952b8c0a26c1c64575ba2"
+    },
+    {
+      "name": "weights-caches-04.zip.part017",
+      "zip": "weights-caches-04.zip",
+      "offset": 536870912,
+      "size_bytes": 33554432,
+      "sha256": "c0f78f99f24efdba22d459f207b062f4f471c21c6ea4c12402ba285936af6c38"
+    },
+    {
+      "name": "weights-caches-04.zip.part018",
+      "zip": "weights-caches-04.zip",
+      "offset": 570425344,
+      "size_bytes": 33554432,
+      "sha256": "4f83ed230bfc0087d03b28c1280adf1db25c8c2c32de5023d50d01fce90baaeb"
+    },
+    {
+      "name": "weights-caches-04.zip.part019",
+      "zip": "weights-caches-04.zip",
+      "offset": 603979776,
+      "size_bytes": 33554432,
+      "sha256": "6920dbae508929fe6de5d2112e0b7be71edff89eef858c05d50c4f5a4963319c"
+    },
+    {
+      "name": "weights-caches-04.zip.part020",
+      "zip": "weights-caches-04.zip",
+      "offset": 637534208,
+      "size_bytes": 33554432,
+      "sha256": "6a6fe42f6fb79fe632a34e523a6431c64f0f911a7c13a495d6eba95d48263778"
+    },
+    {
+      "name": "weights-caches-04.zip.part021",
+      "zip": "weights-caches-04.zip",
+      "offset": 671088640,
+      "size_bytes": 33554432,
+      "sha256": "d44045341f2495f42df7f639651c97b4392b9d5deac64be9e4c6a91629129e4d"
+    },
+    {
+      "name": "weights-caches-04.zip.part022",
+      "zip": "weights-caches-04.zip",
+      "offset": 704643072,
+      "size_bytes": 33554432,
+      "sha256": "b9490097720af95214cba3f23ed681d560e80e47428dd79e058f40d11eb38e03"
+    },
+    {
+      "name": "weights-caches-04.zip.part023",
+      "zip": "weights-caches-04.zip",
+      "offset": 738197504,
+      "size_bytes": 33554432,
+      "sha256": "de747e923fdad98c7259d999c43242486644b968bcddd13dec3a5ba5b6d937ad"
+    },
+    {
+      "name": "weights-caches-04.zip.part024",
+      "zip": "weights-caches-04.zip",
+      "offset": 771751936,
+      "size_bytes": 33554432,
+      "sha256": "9343b29ed3adb0f10dd377beb086646f4642a1b3175b752673236d084f62ab1f"
+    },
+    {
+      "name": "weights-caches-04.zip.part025",
+      "zip": "weights-caches-04.zip",
+      "offset": 805306368,
+      "size_bytes": 33554432,
+      "sha256": "d17f637b2108684a133b0716a48d7080bda5fd54ab6c11df3752cc133427cb9e"
+    },
+    {
+      "name": "weights-caches-04.zip.part026",
+      "zip": "weights-caches-04.zip",
+      "offset": 838860800,
+      "size_bytes": 33554432,
+      "sha256": "51d9c32334e2f380cb8d7a00003ccb1a1e7619ffc767180ddb9768756bba1d2e"
+    },
+    {
+      "name": "weights-caches-04.zip.part027",
+      "zip": "weights-caches-04.zip",
+      "offset": 872415232,
+      "size_bytes": 33554432,
+      "sha256": "2c7692b483a0e72fbe73f3f9d16b27577cc94913a8e0d70555cac833fad48f3e"
+    },
+    {
+      "name": "weights-caches-04.zip.part028",
+      "zip": "weights-caches-04.zip",
+      "offset": 905969664,
+      "size_bytes": 33554432,
+      "sha256": "e6bd016e5c3ced097428d5c255710faa46d912eddb9237cf3ee058d532d7d6ee"
+    },
+    {
+      "name": "weights-caches-04.zip.part029",
+      "zip": "weights-caches-04.zip",
+      "offset": 939524096,
+      "size_bytes": 33554432,
+      "sha256": "fc62fba17181af5504c7112433d27608603cf3acb08a50bce5f8b0878a56511a"
+    },
+    {
+      "name": "weights-caches-04.zip.part030",
+      "zip": "weights-caches-04.zip",
+      "offset": 973078528,
+      "size_bytes": 33554432,
+      "sha256": "efc001172bb48b81be04518cd58f42b58059f3fe76a45587f3e8b01a4fe1ca32"
+    },
+    {
+      "name": "weights-caches-04.zip.part031",
+      "zip": "weights-caches-04.zip",
+      "offset": 1006632960,
+      "size_bytes": 33554432,
+      "sha256": "5b14a270bc73c946827d798ba851ec5c871a530fec8b1011d9a734ca2ddfe6c7"
+    },
+    {
+      "name": "weights-caches-04.zip.part032",
+      "zip": "weights-caches-04.zip",
+      "offset": 1040187392,
+      "size_bytes": 33554432,
+      "sha256": "a41caef74a4faec2b04470c06e8edbe8bc473cefd562cb9abeadf6973b3e0521"
+    },
+    {
+      "name": "weights-caches-04.zip.part033",
+      "zip": "weights-caches-04.zip",
+      "offset": 1073741824,
+      "size_bytes": 33554432,
+      "sha256": "1d625ffe5d64f1ef81d5e5f9e6d0d8d36e7206d0c75182407ac7eca4bb3396c2"
+    },
+    {
+      "name": "weights-caches-04.zip.part034",
+      "zip": "weights-caches-04.zip",
+      "offset": 1107296256,
+      "size_bytes": 33554432,
+      "sha256": "d15a3182575b73c222fc376fe292677fe6faeabb4d217879821745a0b580dbd4"
+    },
+    {
+      "name": "weights-caches-04.zip.part035",
+      "zip": "weights-caches-04.zip",
+      "offset": 1140850688,
+      "size_bytes": 33554432,
+      "sha256": "c669ac37e9d75fa345ddbd45709a209401a755b16f044fd73e03a796f5d3f20a"
+    },
+    {
+      "name": "weights-caches-04.zip.part036",
+      "zip": "weights-caches-04.zip",
+      "offset": 1174405120,
+      "size_bytes": 33554432,
+      "sha256": "4e55ab99771d331bc5e1951d21666407c13d4c7e74e7796bda4a63026bed88b6"
+    },
+    {
+      "name": "weights-caches-04.zip.part037",
+      "zip": "weights-caches-04.zip",
+      "offset": 1207959552,
+      "size_bytes": 33554432,
+      "sha256": "a0d979f8b701b70835ecd1ffc9312761821b495b91e2c568ff91e13e93f6973f"
+    },
+    {
+      "name": "weights-caches-04.zip.part038",
+      "zip": "weights-caches-04.zip",
+      "offset": 1241513984,
+      "size_bytes": 33554432,
+      "sha256": "25c69ef26fd7e2c122daa76ab5116c00f759527effc2d922fc2c32d680d3ead8"
+    },
+    {
+      "name": "weights-caches-04.zip.part039",
+      "zip": "weights-caches-04.zip",
+      "offset": 1275068416,
+      "size_bytes": 33554432,
+      "sha256": "66bd63af6c60f633fc404a18bdbc52e2f48052e939d9ace6e571e3d2957c4c9f"
+    },
+    {
+      "name": "weights-caches-04.zip.part040",
+      "zip": "weights-caches-04.zip",
+      "offset": 1308622848,
+      "size_bytes": 33554432,
+      "sha256": "b406f2b8b267fbd250ddf85b01c8ec6d65558a495fa393fc9fb0404e4db2f433"
+    },
+    {
+      "name": "weights-caches-04.zip.part041",
+      "zip": "weights-caches-04.zip",
+      "offset": 1342177280,
+      "size_bytes": 33554432,
+      "sha256": "3726a894e03d3dda3b36fe373bdf7e442bc750bf265b51db89411067bf38321d"
+    },
+    {
+      "name": "weights-caches-04.zip.part042",
+      "zip": "weights-caches-04.zip",
+      "offset": 1375731712,
+      "size_bytes": 16568819,
+      "sha256": "8ca3b60e7856248adaf846a5913cca8a886a9b292faeb5584f8e355306893656"
+    },
+    {
+      "name": "weights-caches-05.zip.part001",
+      "zip": "weights-caches-05.zip",
+      "offset": 0,
+      "size_bytes": 33554432,
+      "sha256": "933067ff55b3ffdf4866bad0f40d63869b5add7d74c46c549e50f964d8d923dd"
+    },
+    {
+      "name": "weights-caches-05.zip.part002",
+      "zip": "weights-caches-05.zip",
+      "offset": 33554432,
+      "size_bytes": 33554432,
+      "sha256": "815f940d61611d5a2bd468f3388bf9159d1defb84767079ee02c3875c29cd679"
+    },
+    {
+      "name": "weights-caches-05.zip.part003",
+      "zip": "weights-caches-05.zip",
+      "offset": 67108864,
+      "size_bytes": 33554432,
+      "sha256": "8b9c8e6aaadaa47d4b8083de2ec164e397c04c3206d6f2a5d35d5c7aa4d921ce"
+    },
+    {
+      "name": "weights-caches-05.zip.part004",
+      "zip": "weights-caches-05.zip",
+      "offset": 100663296,
+      "size_bytes": 33554432,
+      "sha256": "be253a13e8d9ee88fb9db675b0e257e82bbd2f7dc4631c0e6a4250b15b6071b8"
+    },
+    {
+      "name": "weights-caches-05.zip.part005",
+      "zip": "weights-caches-05.zip",
+      "offset": 134217728,
+      "size_bytes": 33554432,
+      "sha256": "01215f2af6a17454335c3e4654a93e1db8d09c9a0e6f715228a11536c1a739e7"
+    },
+    {
+      "name": "weights-caches-05.zip.part006",
+      "zip": "weights-caches-05.zip",
+      "offset": 167772160,
+      "size_bytes": 33554432,
+      "sha256": "7836aeb1273eb42f652b3c08eb73de8a54b42f9c05cafe384e88874523adea14"
+    },
+    {
+      "name": "weights-caches-05.zip.part007",
+      "zip": "weights-caches-05.zip",
+      "offset": 201326592,
+      "size_bytes": 33554432,
+      "sha256": "b6eabd3e9ab20f0eff323c4dbc2b4d250bdef0c469c8073ff9ac320a8d44727e"
+    },
+    {
+      "name": "weights-caches-05.zip.part008",
+      "zip": "weights-caches-05.zip",
+      "offset": 234881024,
+      "size_bytes": 33554432,
+      "sha256": "b25ddadd82668208ac54cea5e4b160751cf60837b763708597eb532df0ac1533"
+    },
+    {
+      "name": "weights-caches-05.zip.part009",
+      "zip": "weights-caches-05.zip",
+      "offset": 268435456,
+      "size_bytes": 33554432,
+      "sha256": "4368b06ecb4e0ab597713e4d3adae4183b941393346bd7107612e61831d7be97"
+    },
+    {
+      "name": "weights-caches-05.zip.part010",
+      "zip": "weights-caches-05.zip",
+      "offset": 301989888,
+      "size_bytes": 33554432,
+      "sha256": "d4d40ebba64eb12f41e2b897505c482fa58d6f3deff2b95f319a8779c23f290d"
+    },
+    {
+      "name": "weights-caches-05.zip.part011",
+      "zip": "weights-caches-05.zip",
+      "offset": 335544320,
+      "size_bytes": 33554432,
+      "sha256": "2440c7973f27b71684bc6ff80730ce043a4d466371a9fa9afba7e708cc5c60ba"
+    },
+    {
+      "name": "weights-caches-05.zip.part012",
+      "zip": "weights-caches-05.zip",
+      "offset": 369098752,
+      "size_bytes": 33554432,
+      "sha256": "351589852684571f76c8298f018838d535ff90e0eb6eb6c1d7c3d14b8a7b34c9"
+    },
+    {
+      "name": "weights-caches-05.zip.part013",
+      "zip": "weights-caches-05.zip",
+      "offset": 402653184,
+      "size_bytes": 33554432,
+      "sha256": "c1fce018ab3214e464827dd6065be3569b79ee691f6299079237d9359000f015"
+    },
+    {
+      "name": "weights-caches-05.zip.part014",
+      "zip": "weights-caches-05.zip",
+      "offset": 436207616,
+      "size_bytes": 33554432,
+      "sha256": "1592af2ac2513d9962524a76f130d7235fa76ae7c3fbf207023a1b4f42da5d0d"
+    },
+    {
+      "name": "weights-caches-05.zip.part015",
+      "zip": "weights-caches-05.zip",
+      "offset": 469762048,
+      "size_bytes": 33554432,
+      "sha256": "d4a708698da25a9e99a4ba5935898cce305428c38a3a426bb95a854d5d133f26"
+    },
+    {
+      "name": "weights-caches-05.zip.part016",
+      "zip": "weights-caches-05.zip",
+      "offset": 503316480,
+      "size_bytes": 33554432,
+      "sha256": "7125cc769ed23cdcc4b756b25ddbf06a9a267c1e5a602740b539123c3840da69"
+    },
+    {
+      "name": "weights-caches-05.zip.part017",
+      "zip": "weights-caches-05.zip",
+      "offset": 536870912,
+      "size_bytes": 33554432,
+      "sha256": "c6903bb1c774272d0b4994949c98ffbe0219cc9a53e87ed2ef9298fb3e484168"
+    },
+    {
+      "name": "weights-caches-05.zip.part018",
+      "zip": "weights-caches-05.zip",
+      "offset": 570425344,
+      "size_bytes": 33554432,
+      "sha256": "c7f490a6be5f8720206299b1e0242c74c059953a33dd4d42ae27500193b274f6"
+    },
+    {
+      "name": "weights-caches-05.zip.part019",
+      "zip": "weights-caches-05.zip",
+      "offset": 603979776,
+      "size_bytes": 33554432,
+      "sha256": "3f8993928c0378aff14bbc3e6bc014c0cf0ceb7205ebf98a449a4438572deed6"
+    },
+    {
+      "name": "weights-caches-05.zip.part020",
+      "zip": "weights-caches-05.zip",
+      "offset": 637534208,
+      "size_bytes": 33554432,
+      "sha256": "3bc5d8dd6525675c6452875f471657f9534ee282ae1728a65ab6a4cc1854a275"
+    },
+    {
+      "name": "weights-caches-05.zip.part021",
+      "zip": "weights-caches-05.zip",
+      "offset": 671088640,
+      "size_bytes": 33554432,
+      "sha256": "ce63029c7d8d7a78420ba379c95f48278a8e9fcda77852924813aae7d2e1f7e5"
+    },
+    {
+      "name": "weights-caches-05.zip.part022",
+      "zip": "weights-caches-05.zip",
+      "offset": 704643072,
+      "size_bytes": 33554432,
+      "sha256": "3f756533e8dbc7938cff8202bfd59db4af2002bc7979f8459b168aaa2da30ff9"
+    },
+    {
+      "name": "weights-caches-05.zip.part023",
+      "zip": "weights-caches-05.zip",
+      "offset": 738197504,
+      "size_bytes": 33554432,
+      "sha256": "3c1438ff158f83fc74c39d94b5f10029baca29fb79319d8ea6841a4de0e81728"
+    },
+    {
+      "name": "weights-caches-05.zip.part024",
+      "zip": "weights-caches-05.zip",
+      "offset": 771751936,
+      "size_bytes": 33554432,
+      "sha256": "9fe2efc140a5a63bcf309c5db3cbf621966f9d1f27d7972738000bc891560ddb"
+    },
+    {
+      "name": "weights-caches-05.zip.part025",
+      "zip": "weights-caches-05.zip",
+      "offset": 805306368,
+      "size_bytes": 33554432,
+      "sha256": "15d52214288395b42477857e8a2e3fb0ff4a8983c5a96c9608409cbced98ce10"
+    },
+    {
+      "name": "weights-caches-05.zip.part026",
+      "zip": "weights-caches-05.zip",
+      "offset": 838860800,
+      "size_bytes": 33554432,
+      "sha256": "56a9932068017af6c252626d5d3048c59d714a0c650a789f08512228b14c537e"
+    },
+    {
+      "name": "weights-caches-05.zip.part027",
+      "zip": "weights-caches-05.zip",
+      "offset": 872415232,
+      "size_bytes": 33554432,
+      "sha256": "4ae3ef5e192db25f00c97908bba182e480fcf4cb9da06ae5576d85623bfd61d3"
+    },
+    {
+      "name": "weights-caches-05.zip.part028",
+      "zip": "weights-caches-05.zip",
+      "offset": 905969664,
+      "size_bytes": 33554432,
+      "sha256": "a7c0d7afc878a0d311a714d90c2b7855704446104d0bc6b31629ad80e1190fba"
+    },
+    {
+      "name": "weights-caches-05.zip.part029",
+      "zip": "weights-caches-05.zip",
+      "offset": 939524096,
+      "size_bytes": 33554432,
+      "sha256": "d9288aefb2abc7f933dfd606c5e5e962338631bb1498d9bab833403cbf0ad660"
+    },
+    {
+      "name": "weights-caches-05.zip.part030",
+      "zip": "weights-caches-05.zip",
+      "offset": 973078528,
+      "size_bytes": 33554432,
+      "sha256": "bb4fed4a5c7882cf75182b4cd6d63b54f51b24de3b09bd185b01a1387ce553f1"
+    },
+    {
+      "name": "weights-caches-05.zip.part031",
+      "zip": "weights-caches-05.zip",
+      "offset": 1006632960,
+      "size_bytes": 33554432,
+      "sha256": "4c105a76b016f21d64af3cb2245d74fb084ea00217d2f68b15f687f9c0b291bb"
+    },
+    {
+      "name": "weights-caches-05.zip.part032",
+      "zip": "weights-caches-05.zip",
+      "offset": 1040187392,
+      "size_bytes": 33554432,
+      "sha256": "aae8133166f8ee7ab2b509c433d6b6ceac077150a7f242c2e5e31d0f1823f78a"
+    },
+    {
+      "name": "weights-caches-05.zip.part033",
+      "zip": "weights-caches-05.zip",
+      "offset": 1073741824,
+      "size_bytes": 33554432,
+      "sha256": "9c8ea8ef0aa3bec1b503a5f880890e8cd9738545047a1847e727646286146a63"
+    },
+    {
+      "name": "weights-caches-05.zip.part034",
+      "zip": "weights-caches-05.zip",
+      "offset": 1107296256,
+      "size_bytes": 33554432,
+      "sha256": "de8cc2c900e0b537a06a235bd314c808ea89423535c98963db681c444c0c6f6b"
+    },
+    {
+      "name": "weights-caches-05.zip.part035",
+      "zip": "weights-caches-05.zip",
+      "offset": 1140850688,
+      "size_bytes": 33554432,
+      "sha256": "d5f7968d46770cd37a11bd03408a52892cfac615c1203f2824451702087842c7"
+    },
+    {
+      "name": "weights-caches-05.zip.part036",
+      "zip": "weights-caches-05.zip",
+      "offset": 1174405120,
+      "size_bytes": 33554432,
+      "sha256": "4a30619c4945209ac5db9ef711110a047c27ce5e59d4a989be12376b7f3dce42"
+    },
+    {
+      "name": "weights-caches-05.zip.part037",
+      "zip": "weights-caches-05.zip",
+      "offset": 1207959552,
+      "size_bytes": 33554432,
+      "sha256": "865633bd5e258545b2bfd6497017bf3ed94b97582d336cf71313e841aa66f1ce"
+    },
+    {
+      "name": "weights-caches-05.zip.part038",
+      "zip": "weights-caches-05.zip",
+      "offset": 1241513984,
+      "size_bytes": 33554432,
+      "sha256": "54a3066b06499ec50f52f4cdb6e2233d4de6059354a9e661f3f9d0d1c55c2717"
+    },
+    {
+      "name": "weights-caches-05.zip.part039",
+      "zip": "weights-caches-05.zip",
+      "offset": 1275068416,
+      "size_bytes": 33554432,
+      "sha256": "3e302b48b5243b9e03fcc406887236b2b4319aa12ccf9eda8140f23cf37975da"
+    },
+    {
+      "name": "weights-caches-05.zip.part040",
+      "zip": "weights-caches-05.zip",
+      "offset": 1308622848,
+      "size_bytes": 33554432,
+      "sha256": "34ac993d448660b6ac6694b7c60d506d21053c69017697d5687cfb91e19186bd"
+    },
+    {
+      "name": "weights-caches-05.zip.part041",
+      "zip": "weights-caches-05.zip",
+      "offset": 1342177280,
+      "size_bytes": 33554432,
+      "sha256": "62c9c6d9e4083b69a30dd854c801300d89d8ca078896c540c6ef61f70b5437fe"
+    },
+    {
+      "name": "weights-caches-05.zip.part042",
+      "zip": "weights-caches-05.zip",
+      "offset": 1375731712,
+      "size_bytes": 20022429,
+      "sha256": "b92aea08a2f6c5b4e6465ea872d5eddd2d5621ed8806b452ec387adc4f0c3c4f"
+    },
+    {
+      "name": "weights-caches-06.zip.part001",
+      "zip": "weights-caches-06.zip",
+      "offset": 0,
+      "size_bytes": 33554432,
+      "sha256": "a22d5b569b3bcb1d61ccb281ff2f8065c6b4809709a13a3264e4c56719804ac2"
+    },
+    {
+      "name": "weights-caches-06.zip.part002",
+      "zip": "weights-caches-06.zip",
+      "offset": 33554432,
+      "size_bytes": 33554432,
+      "sha256": "d48d4d3bc20294b05b03cdfd33b9742c5783f1b4af47db1fe874d396098f9231"
+    },
+    {
+      "name": "weights-caches-06.zip.part003",
+      "zip": "weights-caches-06.zip",
+      "offset": 67108864,
+      "size_bytes": 33554432,
+      "sha256": "b1e101838fc7316586dcc9a5e51ad7cff17c3f2eaa3bd17ca6e308073398da34"
+    },
+    {
+      "name": "weights-caches-06.zip.part004",
+      "zip": "weights-caches-06.zip",
+      "offset": 100663296,
+      "size_bytes": 33554432,
+      "sha256": "478beb734b7218ca60c94a18e7ca2debc057ab49e094c5eb83c6ed4590996869"
+    },
+    {
+      "name": "weights-caches-06.zip.part005",
+      "zip": "weights-caches-06.zip",
+      "offset": 134217728,
+      "size_bytes": 33554432,
+      "sha256": "bba8bc4941fabefea1404856e5a164274f5c22ed090bfc72202e8995d65fb556"
+    },
+    {
+      "name": "weights-caches-06.zip.part006",
+      "zip": "weights-caches-06.zip",
+      "offset": 167772160,
+      "size_bytes": 33554432,
+      "sha256": "0529f91eeb7b8f4494a818f75b901384e7c97072372755736165803078884ab9"
+    },
+    {
+      "name": "weights-caches-06.zip.part007",
+      "zip": "weights-caches-06.zip",
+      "offset": 201326592,
+      "size_bytes": 33554432,
+      "sha256": "ae7c3a4a9f2ce602dfb54e70619c9950cba4f9249b9b1ebb6b988c439db2bafe"
+    },
+    {
+      "name": "weights-caches-06.zip.part008",
+      "zip": "weights-caches-06.zip",
+      "offset": 234881024,
+      "size_bytes": 33554432,
+      "sha256": "64689aabe4031fdd9c5840856da34d8f3e122a587603230556be9a6c858d6301"
+    },
+    {
+      "name": "weights-caches-06.zip.part009",
+      "zip": "weights-caches-06.zip",
+      "offset": 268435456,
+      "size_bytes": 33554432,
+      "sha256": "90d0fa4012c1a755ef622b069e81538fb0c957fdee3d1f414cc53890c279ffb3"
+    },
+    {
+      "name": "weights-caches-06.zip.part010",
+      "zip": "weights-caches-06.zip",
+      "offset": 301989888,
+      "size_bytes": 33554432,
+      "sha256": "87cf6134c522b1cc0a4dc67beaf359d5b94454b2b5887381415a966b0657552e"
+    },
+    {
+      "name": "weights-caches-06.zip.part011",
+      "zip": "weights-caches-06.zip",
+      "offset": 335544320,
+      "size_bytes": 33554432,
+      "sha256": "7ab4df1d5a7de86be2f40fa35013b30bfdc8c06660e03d93286fa3eb0125fe21"
+    },
+    {
+      "name": "weights-caches-06.zip.part012",
+      "zip": "weights-caches-06.zip",
+      "offset": 369098752,
+      "size_bytes": 33554432,
+      "sha256": "fcafb049a0cd8a437ce723b1d72eb12471f2e9d4a4db2163ecbf958234d6ed11"
+    },
+    {
+      "name": "weights-caches-06.zip.part013",
+      "zip": "weights-caches-06.zip",
+      "offset": 402653184,
+      "size_bytes": 33554432,
+      "sha256": "05f91c56c8d11b843800e60aa7277799bed0083106049b42c9bb88f6536a6493"
+    },
+    {
+      "name": "weights-caches-06.zip.part014",
+      "zip": "weights-caches-06.zip",
+      "offset": 436207616,
+      "size_bytes": 33554432,
+      "sha256": "0079403f1c3753b2e133814a44ec13f4560494de512bf43b949c7d251764c32a"
+    },
+    {
+      "name": "weights-caches-06.zip.part015",
+      "zip": "weights-caches-06.zip",
+      "offset": 469762048,
+      "size_bytes": 33554432,
+      "sha256": "b0e5165f5de13570be9536848808a0f5371debceae9fae0f278723cc81428a61"
+    },
+    {
+      "name": "weights-caches-06.zip.part016",
+      "zip": "weights-caches-06.zip",
+      "offset": 503316480,
+      "size_bytes": 33554432,
+      "sha256": "490d016fca06d6ec5abb4b52ada78d2ccaa2db25f5a0e43967b03fc2e691e946"
+    },
+    {
+      "name": "weights-caches-06.zip.part017",
+      "zip": "weights-caches-06.zip",
+      "offset": 536870912,
+      "size_bytes": 33554432,
+      "sha256": "220fa623a9cb9686aee760ace682154eb39273126659f675f0e621e97559568c"
+    },
+    {
+      "name": "weights-caches-06.zip.part018",
+      "zip": "weights-caches-06.zip",
+      "offset": 570425344,
+      "size_bytes": 33554432,
+      "sha256": "c87002d493c983c8a437917b4fe56b5a2298fec37a12b954ac59867b2b278942"
+    },
+    {
+      "name": "weights-caches-06.zip.part019",
+      "zip": "weights-caches-06.zip",
+      "offset": 603979776,
+      "size_bytes": 33554432,
+      "sha256": "b57a84b5984ccc38b63b6ca4f6fa5c5542e495ec7cf94628cbd622ba58eff2e9"
+    },
+    {
+      "name": "weights-caches-06.zip.part020",
+      "zip": "weights-caches-06.zip",
+      "offset": 637534208,
+      "size_bytes": 33554432,
+      "sha256": "e71c54ff669935bd8f8983bb0fab6e05cc53f4554bf4d0fe701e9411d72416bf"
+    },
+    {
+      "name": "weights-caches-06.zip.part021",
+      "zip": "weights-caches-06.zip",
+      "offset": 671088640,
+      "size_bytes": 33554432,
+      "sha256": "2d0bb6a492a78a0bb3ba7b681cc288a6fd5958faf7fd2a3f45e5d40084665670"
+    },
+    {
+      "name": "weights-caches-06.zip.part022",
+      "zip": "weights-caches-06.zip",
+      "offset": 704643072,
+      "size_bytes": 33554432,
+      "sha256": "04a456f728c1a96642deea53669216a5d8c6e84f9068fa8c40109e78c24dd0ba"
+    },
+    {
+      "name": "weights-caches-06.zip.part023",
+      "zip": "weights-caches-06.zip",
+      "offset": 738197504,
+      "size_bytes": 33554432,
+      "sha256": "6442c0d8acdd585a62f5be0e33b97b5904f51099365cfaac158d227988b39088"
+    },
+    {
+      "name": "weights-caches-06.zip.part024",
+      "zip": "weights-caches-06.zip",
+      "offset": 771751936,
+      "size_bytes": 33554432,
+      "sha256": "434ff93210a71e501a2bff85a124ded48e47982efe29e057d88a8ac5a539f7f9"
+    },
+    {
+      "name": "weights-caches-06.zip.part025",
+      "zip": "weights-caches-06.zip",
+      "offset": 805306368,
+      "size_bytes": 33554432,
+      "sha256": "57e532038c429fdef4b646387eefbd369bde877c3825aa056b30f7738847304e"
+    },
+    {
+      "name": "weights-caches-06.zip.part026",
+      "zip": "weights-caches-06.zip",
+      "offset": 838860800,
+      "size_bytes": 33554432,
+      "sha256": "669264f806f7d764402dcc91d4071c85a64106af580041eab6f612862e7aa944"
+    },
+    {
+      "name": "weights-caches-06.zip.part027",
+      "zip": "weights-caches-06.zip",
+      "offset": 872415232,
+      "size_bytes": 33554432,
+      "sha256": "044af1056c3903ded4a767fa383ef661eee02b680f7f41cb318feadfe80ecdf6"
+    },
+    {
+      "name": "weights-caches-06.zip.part028",
+      "zip": "weights-caches-06.zip",
+      "offset": 905969664,
+      "size_bytes": 33554432,
+      "sha256": "10e9a800f4c712a8a44b159dd2548fdce5f09970e941a80aa94297ebfd5fc360"
+    },
+    {
+      "name": "weights-caches-06.zip.part029",
+      "zip": "weights-caches-06.zip",
+      "offset": 939524096,
+      "size_bytes": 33554432,
+      "sha256": "81e29320b7e3bba2d2402fb13baf237c6bc12ec3557e515652d9bc606158e29a"
+    },
+    {
+      "name": "weights-caches-06.zip.part030",
+      "zip": "weights-caches-06.zip",
+      "offset": 973078528,
+      "size_bytes": 33554432,
+      "sha256": "cfe12a7e225735e9c019d2bd3dba488e3197b0e724c2ca3054a32f2175e4b8bb"
+    },
+    {
+      "name": "weights-caches-06.zip.part031",
+      "zip": "weights-caches-06.zip",
+      "offset": 1006632960,
+      "size_bytes": 33554432,
+      "sha256": "9f0b96b1887fbc081a63fb6f42e8f3d083512a9a7af7ad34f17f06938533f37e"
+    },
+    {
+      "name": "weights-caches-06.zip.part032",
+      "zip": "weights-caches-06.zip",
+      "offset": 1040187392,
+      "size_bytes": 33554432,
+      "sha256": "86184885ce31a821e3528d48dbc3bbe0dec25a18d3fbe26d3b61e87902eaf1b8"
+    },
+    {
+      "name": "weights-caches-06.zip.part033",
+      "zip": "weights-caches-06.zip",
+      "offset": 1073741824,
+      "size_bytes": 33554432,
+      "sha256": "335eb8a4b0d0859ffc883375a94480b552cc7a03a2cdc2a515cc007d99a17aa4"
+    },
+    {
+      "name": "weights-caches-06.zip.part034",
+      "zip": "weights-caches-06.zip",
+      "offset": 1107296256,
+      "size_bytes": 33554432,
+      "sha256": "32b00ad1685ad1112cf1183cd77d73cd46452cf9430785cb317dbb9fe93f2d6b"
+    },
+    {
+      "name": "weights-caches-06.zip.part035",
+      "zip": "weights-caches-06.zip",
+      "offset": 1140850688,
+      "size_bytes": 33554432,
+      "sha256": "42711363d9269cadb12e45aa1612f3b73ffdb2e96c0f973063511a6ea0fc5c9d"
+    },
+    {
+      "name": "weights-caches-06.zip.part036",
+      "zip": "weights-caches-06.zip",
+      "offset": 1174405120,
+      "size_bytes": 33554432,
+      "sha256": "90049d259c10ffbdf7e36e29e62b8212105e181fa0741f0df8dec61e98ad5e07"
+    },
+    {
+      "name": "weights-caches-06.zip.part037",
+      "zip": "weights-caches-06.zip",
+      "offset": 1207959552,
+      "size_bytes": 33554432,
+      "sha256": "b9bbc544931e621a02804708442c627bd825c0e5302c8b9053afb5da0fe493d0"
+    },
+    {
+      "name": "weights-caches-06.zip.part038",
+      "zip": "weights-caches-06.zip",
+      "offset": 1241513984,
+      "size_bytes": 33554432,
+      "sha256": "df7da909895d60c495723dbd8bfd1932495e283a1b1fc8802a79f485a6c3c43e"
+    },
+    {
+      "name": "weights-caches-06.zip.part039",
+      "zip": "weights-caches-06.zip",
+      "offset": 1275068416,
+      "size_bytes": 33554432,
+      "sha256": "94f065b21507e3e11e3c30a5cf888be1ef70b035108adb0df210de0d157e9336"
+    },
+    {
+      "name": "weights-caches-06.zip.part040",
+      "zip": "weights-caches-06.zip",
+      "offset": 1308622848,
+      "size_bytes": 33554432,
+      "sha256": "531ea285aea77958ac3e226cbfc5e21d70897820c3f5132e9c215bf68a844c8b"
+    },
+    {
+      "name": "weights-caches-06.zip.part041",
+      "zip": "weights-caches-06.zip",
+      "offset": 1342177280,
+      "size_bytes": 33554432,
+      "sha256": "06d198ff3d79bc2fa6e0182272ce69c94710318232f457fdda025c00105d5138"
+    },
+    {
+      "name": "weights-caches-06.zip.part042",
+      "zip": "weights-caches-06.zip",
+      "offset": 1375731712,
+      "size_bytes": 11086898,
+      "sha256": "f804d14a41c9188481c76050fe498c253ce32a0889d6fda03db0dfd882f5de42"
+    },
+    {
+      "name": "weights-caches-07.zip.part001",
+      "zip": "weights-caches-07.zip",
+      "offset": 0,
+      "size_bytes": 33554432,
+      "sha256": "6a83103ba15de0111b796e55a9fc40da53936db219b3ded185cd219f5d6dda15"
+    },
+    {
+      "name": "weights-caches-07.zip.part002",
+      "zip": "weights-caches-07.zip",
+      "offset": 33554432,
+      "size_bytes": 33554432,
+      "sha256": "db6e4e673415904179aa132037ab5052f36dc3829355e5d266e4c4ef792d4a6c"
+    },
+    {
+      "name": "weights-caches-07.zip.part003",
+      "zip": "weights-caches-07.zip",
+      "offset": 67108864,
+      "size_bytes": 33554432,
+      "sha256": "8ff1bd5930482ec312737524ab2eab7d549ebcbe57f802fb180752c00bd34628"
+    },
+    {
+      "name": "weights-caches-07.zip.part004",
+      "zip": "weights-caches-07.zip",
+      "offset": 100663296,
+      "size_bytes": 33554432,
+      "sha256": "4b1f567c3868ee2c9bbe85620026fc92efaf32cdbc8e35596038588f3bef1a38"
+    },
+    {
+      "name": "weights-caches-07.zip.part005",
+      "zip": "weights-caches-07.zip",
+      "offset": 134217728,
+      "size_bytes": 33554432,
+      "sha256": "f2ab178f9e3b867922763ca937aa149518807318e5c4512c85befb3c03f6f4cd"
+    },
+    {
+      "name": "weights-caches-07.zip.part006",
+      "zip": "weights-caches-07.zip",
+      "offset": 167772160,
+      "size_bytes": 33554432,
+      "sha256": "956e25429c5364e6b6664dbab6fed699805e87b1c27bddab7c2745fa74293445"
+    },
+    {
+      "name": "weights-caches-07.zip.part007",
+      "zip": "weights-caches-07.zip",
+      "offset": 201326592,
+      "size_bytes": 33554432,
+      "sha256": "0aee1e8307d390f61251e6cf0600e2d1f51f41bd1b622cc0e1074bb86dd9e1f6"
+    },
+    {
+      "name": "weights-caches-07.zip.part008",
+      "zip": "weights-caches-07.zip",
+      "offset": 234881024,
+      "size_bytes": 33554432,
+      "sha256": "e024085d703198269608c26e6eede9d6af219acb24f263d4cf8f1d7f18ffce94"
+    },
+    {
+      "name": "weights-caches-07.zip.part009",
+      "zip": "weights-caches-07.zip",
+      "offset": 268435456,
+      "size_bytes": 33554432,
+      "sha256": "e91837de0a7220c9f058ab0f39c2e62d0dc016529847351d979008e0f10c024b"
+    },
+    {
+      "name": "weights-caches-07.zip.part010",
+      "zip": "weights-caches-07.zip",
+      "offset": 301989888,
+      "size_bytes": 33554432,
+      "sha256": "2b62fccaf8c0f44a0346c2800e48688e0ff28e69dfde5dcea09207aee475e22e"
+    },
+    {
+      "name": "weights-caches-07.zip.part011",
+      "zip": "weights-caches-07.zip",
+      "offset": 335544320,
+      "size_bytes": 33554432,
+      "sha256": "afe1911c10037e9621fc66fabecfaa00b64691f80aac0f09ba23da06d055ca13"
+    },
+    {
+      "name": "weights-caches-07.zip.part012",
+      "zip": "weights-caches-07.zip",
+      "offset": 369098752,
+      "size_bytes": 33554432,
+      "sha256": "6015b4368fc0b119debe109ea8430b88722c099a8180da3339b43cca89a24e2d"
+    },
+    {
+      "name": "weights-caches-07.zip.part013",
+      "zip": "weights-caches-07.zip",
+      "offset": 402653184,
+      "size_bytes": 33554432,
+      "sha256": "71ba048fb49776902d259a97cabd57b04ebf27b61d09bb4651b595b866f3b28b"
+    },
+    {
+      "name": "weights-caches-07.zip.part014",
+      "zip": "weights-caches-07.zip",
+      "offset": 436207616,
+      "size_bytes": 33554432,
+      "sha256": "2723353e8dab841fbf305b636d04cd7a751027df547aeb4a00cf5eaaeb7a6e92"
+    },
+    {
+      "name": "weights-caches-07.zip.part015",
+      "zip": "weights-caches-07.zip",
+      "offset": 469762048,
+      "size_bytes": 33554432,
+      "sha256": "6e276e5df8190e107f6062e38216cb73ff4b9642e18108f108805d5beec54d0b"
+    },
+    {
+      "name": "weights-caches-07.zip.part016",
+      "zip": "weights-caches-07.zip",
+      "offset": 503316480,
+      "size_bytes": 33554432,
+      "sha256": "899a8ca1455eaae96bd17deb540bf901f6b017104b1b623f725d0d6053788fd4"
+    },
+    {
+      "name": "weights-caches-07.zip.part017",
+      "zip": "weights-caches-07.zip",
+      "offset": 536870912,
+      "size_bytes": 33554432,
+      "sha256": "aeb018779b989e2885563040af8082021b139fd1e4631add2796b3f1a4850b8d"
+    },
+    {
+      "name": "weights-caches-07.zip.part018",
+      "zip": "weights-caches-07.zip",
+      "offset": 570425344,
+      "size_bytes": 33554432,
+      "sha256": "15615532f1279a9a2d31259fd59d271fb9d53a603e7f7731cd1cc1a153156c0b"
+    },
+    {
+      "name": "weights-caches-07.zip.part019",
+      "zip": "weights-caches-07.zip",
+      "offset": 603979776,
+      "size_bytes": 33554432,
+      "sha256": "72ce89581a47163b9be76133dc8f2463b9bf21aba91b3760e3836c8cac18f719"
+    },
+    {
+      "name": "weights-caches-07.zip.part020",
+      "zip": "weights-caches-07.zip",
+      "offset": 637534208,
+      "size_bytes": 33554432,
+      "sha256": "8110b9636f6e3462853585fba65fbab4057ad2fa7d67fc3e503eb7090c604a35"
+    },
+    {
+      "name": "weights-caches-07.zip.part021",
+      "zip": "weights-caches-07.zip",
+      "offset": 671088640,
+      "size_bytes": 33554432,
+      "sha256": "3b9aa5c868ffb04e935cea8d5355767cb45802d062746c2e4d40f2bdac2e55fa"
+    },
+    {
+      "name": "weights-caches-07.zip.part022",
+      "zip": "weights-caches-07.zip",
+      "offset": 704643072,
+      "size_bytes": 33554432,
+      "sha256": "9358cc00af7f9f96020229394acc21431d8eb6d926bffcdca812049c516f43b5"
+    },
+    {
+      "name": "weights-caches-07.zip.part023",
+      "zip": "weights-caches-07.zip",
+      "offset": 738197504,
+      "size_bytes": 33554432,
+      "sha256": "45c38dab915c446cae4117f9e48e8b26a031b374cf0f70c139b89e0bac77b755"
+    },
+    {
+      "name": "weights-caches-07.zip.part024",
+      "zip": "weights-caches-07.zip",
+      "offset": 771751936,
+      "size_bytes": 33554432,
+      "sha256": "ec4add694a6778be1fd6ebea06bff0fd36f5832d7af3114928cf2dd5925f0e73"
+    },
+    {
+      "name": "weights-caches-07.zip.part025",
+      "zip": "weights-caches-07.zip",
+      "offset": 805306368,
+      "size_bytes": 33554432,
+      "sha256": "8efa19fb1ca3c76642e7f102f53af3a8efc0e271966587a1fd127f580b65a518"
+    },
+    {
+      "name": "weights-caches-07.zip.part026",
+      "zip": "weights-caches-07.zip",
+      "offset": 838860800,
+      "size_bytes": 33554432,
+      "sha256": "ae32e660b1c3f144d97b114a8804e4e88e395227b9254b800bd1730f71706050"
+    },
+    {
+      "name": "weights-caches-07.zip.part027",
+      "zip": "weights-caches-07.zip",
+      "offset": 872415232,
+      "size_bytes": 33554432,
+      "sha256": "a90c177e27c76320cb865f1a8f120e0a24e5a32cdc8b369cfad061cf6f2a1ced"
+    },
+    {
+      "name": "weights-caches-07.zip.part028",
+      "zip": "weights-caches-07.zip",
+      "offset": 905969664,
+      "size_bytes": 33554432,
+      "sha256": "dd490a737b9f5fd8013290111ef5a29af2f6bb7b4bd6d855bb8ed58df65c90bd"
+    },
+    {
+      "name": "weights-caches-07.zip.part029",
+      "zip": "weights-caches-07.zip",
+      "offset": 939524096,
+      "size_bytes": 33554432,
+      "sha256": "8af49ec02f1ee90bd564ac682ffbf2af3ac1e83041155cef772668ff1f14bd45"
+    },
+    {
+      "name": "weights-caches-07.zip.part030",
+      "zip": "weights-caches-07.zip",
+      "offset": 973078528,
+      "size_bytes": 33554432,
+      "sha256": "d24f89fea24e91f678075cf677fa53f78df77719636202dfa7eea51241858ccc"
+    },
+    {
+      "name": "weights-caches-07.zip.part031",
+      "zip": "weights-caches-07.zip",
+      "offset": 1006632960,
+      "size_bytes": 33554432,
+      "sha256": "4b554cd78dd6f39b9b0e7921450c44fc516fbc27d78470d461bbbae8e525c6d9"
+    },
+    {
+      "name": "weights-caches-07.zip.part032",
+      "zip": "weights-caches-07.zip",
+      "offset": 1040187392,
+      "size_bytes": 33554432,
+      "sha256": "94e53fa449727253d13e204ac1d11ddb476fcd51d17f1e388a6ac19598c25510"
+    },
+    {
+      "name": "weights-caches-07.zip.part033",
+      "zip": "weights-caches-07.zip",
+      "offset": 1073741824,
+      "size_bytes": 33554432,
+      "sha256": "f905f4150bb61f1462c8c498648da132c19ff9850b84b0fe5699a09cbd42c48e"
+    },
+    {
+      "name": "weights-caches-07.zip.part034",
+      "zip": "weights-caches-07.zip",
+      "offset": 1107296256,
+      "size_bytes": 33554432,
+      "sha256": "3ebf5ab1b5ee528565aaaacb3f39dfc1b4563a00794e7c4a9c462c4a5ad13a57"
+    },
+    {
+      "name": "weights-caches-07.zip.part035",
+      "zip": "weights-caches-07.zip",
+      "offset": 1140850688,
+      "size_bytes": 33554432,
+      "sha256": "4dbdbc50807bfb081c95d7df86d0d8efcc4ffb2f6b941742b6133746c0adf0a7"
+    },
+    {
+      "name": "weights-caches-07.zip.part036",
+      "zip": "weights-caches-07.zip",
+      "offset": 1174405120,
+      "size_bytes": 33554432,
+      "sha256": "01ab8f0fd28fa44255715497cee5b7bfb304093746e5f38dfd32bcd4c14c15b9"
+    },
+    {
+      "name": "weights-caches-07.zip.part037",
+      "zip": "weights-caches-07.zip",
+      "offset": 1207959552,
+      "size_bytes": 33554432,
+      "sha256": "6732622049b0c006c6fba0c17802eb260e429a78e9601b78d932b391c829079a"
+    },
+    {
+      "name": "weights-caches-07.zip.part038",
+      "zip": "weights-caches-07.zip",
+      "offset": 1241513984,
+      "size_bytes": 33554432,
+      "sha256": "c08d3ca8675d17584256d730e43bab2dbd7720d5f0c23d68893019f2907f5833"
+    },
+    {
+      "name": "weights-caches-07.zip.part039",
+      "zip": "weights-caches-07.zip",
+      "offset": 1275068416,
+      "size_bytes": 33554432,
+      "sha256": "90b60ad85afe00ed2b282b9428969f0cbbc3fed3be9515953601843152718bc5"
+    },
+    {
+      "name": "weights-caches-07.zip.part040",
+      "zip": "weights-caches-07.zip",
+      "offset": 1308622848,
+      "size_bytes": 33554432,
+      "sha256": "b436aba1552edf01d6747e687bae37577cd51e6adf8649f3b67ac5684f5eb4a5"
+    },
+    {
+      "name": "weights-caches-07.zip.part041",
+      "zip": "weights-caches-07.zip",
+      "offset": 1342177280,
+      "size_bytes": 33554432,
+      "sha256": "19848017af02d12eeea8e0ba939323f297b542b383e035d89e86b36274d2d35b"
+    },
+    {
+      "name": "weights-caches-07.zip.part042",
+      "zip": "weights-caches-07.zip",
+      "offset": 1375731712,
+      "size_bytes": 20195739,
+      "sha256": "3bac2b4c1d391ee5100d66c306f6b00026c4e052af722c8029a27b3c884ef386"
+    },
+    {
+      "name": "weights-caches-08.zip.part001",
+      "zip": "weights-caches-08.zip",
+      "offset": 0,
+      "size_bytes": 33554432,
+      "sha256": "ebb097c6645a1ac78aec9a8d26e177b5fc00963a76a0caa55b611e560403e926"
+    },
+    {
+      "name": "weights-caches-08.zip.part002",
+      "zip": "weights-caches-08.zip",
+      "offset": 33554432,
+      "size_bytes": 33554432,
+      "sha256": "b51d5d00956cee6b9258185f43114a52a2ee87e82624f2942df98b0e949c146e"
+    },
+    {
+      "name": "weights-caches-08.zip.part003",
+      "zip": "weights-caches-08.zip",
+      "offset": 67108864,
+      "size_bytes": 33554432,
+      "sha256": "b6e3a1606ad6fbf5793f1209a70ef6551ddacc2981d986f9a832bdd547370b8f"
+    },
+    {
+      "name": "weights-caches-08.zip.part004",
+      "zip": "weights-caches-08.zip",
+      "offset": 100663296,
+      "size_bytes": 33554432,
+      "sha256": "cacbc70bade0509799665e749f62c665089a8fc4fdbe2a89fd6f61c7043a8095"
+    },
+    {
+      "name": "weights-caches-08.zip.part005",
+      "zip": "weights-caches-08.zip",
+      "offset": 134217728,
+      "size_bytes": 33554432,
+      "sha256": "5d29c2165c67d432e2e829f0f2e3e6a71f7d13b95765e494723cf97cd2df5386"
+    },
+    {
+      "name": "weights-caches-08.zip.part006",
+      "zip": "weights-caches-08.zip",
+      "offset": 167772160,
+      "size_bytes": 33554432,
+      "sha256": "53acc52a9bad9635112f312147a38f798fb77441975ba05f153ba4bbf300fec6"
+    },
+    {
+      "name": "weights-caches-08.zip.part007",
+      "zip": "weights-caches-08.zip",
+      "offset": 201326592,
+      "size_bytes": 33554432,
+      "sha256": "0c936a35e5de7e8a951e5ebcbf1831cba83d12ef591a605bb538971cc9864308"
+    },
+    {
+      "name": "weights-caches-08.zip.part008",
+      "zip": "weights-caches-08.zip",
+      "offset": 234881024,
+      "size_bytes": 33554432,
+      "sha256": "b5d7eec2896cb451c85c8d449984988c271c7c5e21ae0a9c76b08678c3500c26"
+    },
+    {
+      "name": "weights-caches-08.zip.part009",
+      "zip": "weights-caches-08.zip",
+      "offset": 268435456,
+      "size_bytes": 33554432,
+      "sha256": "d0cb61eb3791867a34921502ecab4cc209b3f154756431cbecf435cd10ab9e31"
+    },
+    {
+      "name": "weights-caches-08.zip.part010",
+      "zip": "weights-caches-08.zip",
+      "offset": 301989888,
+      "size_bytes": 33554432,
+      "sha256": "fc7543d125b5282566754751e77a3e4d72d714a864e3ebda4af4678b9e45a471"
+    },
+    {
+      "name": "weights-caches-08.zip.part011",
+      "zip": "weights-caches-08.zip",
+      "offset": 335544320,
+      "size_bytes": 33554432,
+      "sha256": "fa2d707ab1f50c4ff99335c536598f459904c50d9f9ce74095afbd4f5688d4fe"
+    },
+    {
+      "name": "weights-caches-08.zip.part012",
+      "zip": "weights-caches-08.zip",
+      "offset": 369098752,
+      "size_bytes": 4358605,
+      "sha256": "283e82754b8a6f6a7048554f0b4c03212ca4abe2c6f317312d6136686a493037"
+    }
+  ]
+}

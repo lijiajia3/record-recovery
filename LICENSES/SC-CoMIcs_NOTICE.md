@@ -1,0 +1,2 @@
+SC-CoMIcs version 3: https://doi.org/10.17632/xc9fjz2p3h.3
+Texts: CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/). Annotations: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Original authors: K. Yamaguchi, R. Asahi and Y. Sasaki. The separate original archives and attribution are retained in replay-data.zip. Original repository code without confirmed permission is excluded.

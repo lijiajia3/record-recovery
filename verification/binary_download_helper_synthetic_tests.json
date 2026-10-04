@@ -1,0 +1,47 @@
+{
+  "scope": "Actual synthetic local transport tests; no real remote weights downloaded again",
+  "source_sha256": "02504fb820e2eb7372a3cd184e5f05aafa2ee43de90328408cb9e759e8788b41",
+  "checks": [
+    {
+      "INVENTED_case": "valid",
+      "actual_expected_result_passed": true,
+      "network_calls": 2
+    },
+    {
+      "INVENTED_case": "bad_chunk_hash",
+      "actual_expected_result_passed": true,
+      "network_calls": 1
+    },
+    {
+      "INVENTED_case": "bad_full_hash",
+      "actual_expected_result_passed": true,
+      "network_calls": 2
+    },
+    {
+      "INVENTED_case": "bad_offset",
+      "actual_expected_result_passed": true,
+      "network_calls": 1
+    },
+    {
+      "INVENTED_case": "bad_size",
+      "actual_expected_result_passed": true,
+      "network_calls": 1
+    },
+    {
+      "INVENTED_case": "existing_valid",
+      "actual_expected_result_passed": true,
+      "network_calls": 0
+    },
+    {
+      "INVENTED_case": "existing_invalid",
+      "actual_expected_result_passed": true,
+      "network_calls": 0
+    },
+    {
+      "INVENTED_case": "earlier_partial",
+      "actual_expected_result_passed": true,
+      "network_calls": 0
+    }
+  ],
+  "all_passed": true
+}

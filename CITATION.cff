@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the code release and identify the unpublished manuscript separately."
+type: software
+title: "Scientific record recovery: saved-output reproducibility"
+version: 1.0.0
+date-released: 2026-10-04
+url: "https://github.com/lijiajia3/scientific-record-recovery"
+repository-code: "https://github.com/lijiajia3/scientific-record-recovery"
+license: MIT
+authors:
+  - family-names: Guo
+    given-names: Dongdong
+    orcid: "https://orcid.org/0009-0004-2108-6314"
+    affiliation: "Shanxi College of Applied Science and Technology"
+  - family-names: Li
+    given-names: Jiaxuan
+    orcid: "https://orcid.org/0009-0005-0494-5698"
+    affiliation: "Shanxi College of Applied Science and Technology"
+abstract: "Original code for source-level, saved-output evaluation of chemical and materials record recovery. Third-party datasets, model assets and included author code retain their separate licenses; this software license does not relicense those materials."
