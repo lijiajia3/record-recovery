@@ -2,15 +2,15 @@
 
 Code and saved-output artifacts for **Diagnosing record recovery bottlenecks in chemical and materials information extraction**, by Dongdong Guo and Jiaxuan Li. This is an unpublished research manuscript prepared for Journal of Cheminformatics; the repository does not imply acceptance.
 
-The evaluation separates local agreement, complete annotated records and the attribution of comparator gains. It preserves adverse outcomes: the SC-CoMIcs aligned head did not establish an adjusted correspondence benefit and was outperformed by the adapted biaffine reference. The original MuLMS baseline recovered zero complete annotated measurement-context objects for all five heads. The current supplements document decoder, calibration, continuation, external-endpoint and confidence analyses, including their adverse results and reused-test limits.
+The study locates where complete annotated objects are lost, tests repairs to detection or assembly, and measures their gains and added errors. Directed comparators separately examine the attribution of model gains. It preserves adverse outcomes: the SC-CoMIcs aligned head did not establish an adjusted correspondence benefit and was outperformed by the adapted biaffine reference. The original MuLMS baseline recovered zero complete annotated measurement-context objects for all five heads. The current supplements document decoder, calibration, continuation, external-endpoint and confidence analyses, including their adverse results and reused-test limits.
 
 ## Current manuscript and supplementary evidence
 
-[Manuscript materials dated 9 October 2026](https://github.com/lijiajia3/scientific-record-recovery/releases/tag/manuscript-20261009-fig1-access-r2) provide the final 30-page main manuscript, 40-page Supplementary Information, official Springer Nature LaTeX sources, six figures in Times New Roman and Additional files 2–6. Figure 1 uses only the supplied IEEE Access Figure 1 as its visual reference. All other figures and numerical source records retain their preceding SHA-256 values. The five scientific evidence ZIPs retain their original bytes. Each release file has a SHA-256 record; a combined public-materials ZIP is available for one download.
+[Rewritten manuscript materials dated 9 October 2026](https://github.com/lijiajia3/scientific-record-recovery/releases/tag/manuscript-20261009-rewritten) provide the 31-page main manuscript, 40-page Supplementary Information, official Springer Nature LaTeX sources, six figures in Times New Roman and Additional files 2–6. This revision rewrites the full manuscript and supplement, with a new abstract and introduction organized around locating a recovery loss, choosing an intervention and checking complete-object recovery afterward. The prose received a final academic humanizer review, with numerical findings and their limitations preserved.
 
-The [preceding manuscript snapshot](https://github.com/lijiajia3/scientific-record-recovery/releases/tag/manuscript-20261009) remains available.
+Figure 1 retains the supplied IEEE Access Figure 1 as its sole visual reference. All six figure files, their numerical source records and the five scientific evidence ZIPs retain their preceding SHA-256 values. Each public file has a SHA-256 record; a combined public-materials ZIP is available for one download. The [preceding Figure 1 snapshot](https://github.com/lijiajia3/scientific-record-recovery/releases/tag/manuscript-20261009-fig1-access-r2) and earlier releases remain available.
 
-See [the material index and compilation instructions](manuscript/2026-10-09-fig1-access-r2/README.md). The current title, PDFs and availability statements refer to this dated snapshot. The historical v1.0.0 code and weight/cache assets remain available separately. The later diagnostic analyses reuse observed tests; they do not establish a new untouched evaluation or independent training replication. The snapshot release itself runs no new experiments.
+See [the material index and compilation instructions](manuscript/2026-10-09-rewritten/README.md). The current title, PDFs and availability statements refer to this dated snapshot. The historical v1.0.0 code and weight/cache assets remain available separately. Later diagnostic analyses reuse observed tests; this editorial revision adds no experiment, untouched evaluation or independent training replication.
 
 ## Quick saved-output reproduction
 
@@ -59,6 +59,6 @@ See `LICENSES/` and the original notices inside `replay-data.zip`. Unlicensed SC
 
 ## Citation
 
-Guo D, Li J (2026). Diagnosing record recovery bottlenecks in chemical and materials information extraction. Unpublished manuscript. Manuscript materials: manuscript-20261009-fig1-access-r2; historical code release: v1.0.0. https://github.com/lijiajia3/scientific-record-recovery.
+Guo D, Li J (2026). Diagnosing record recovery bottlenecks in chemical and materials information extraction. Unpublished manuscript. Manuscript materials: manuscript-20261009-rewritten; historical code release: v1.0.0. https://github.com/lijiajia3/scientific-record-recovery.
 
 Language-model assistance supported code and manuscript preparation; model-assisted critiques are not external human peer review. Human authors remain responsible for verification.
