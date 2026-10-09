@@ -1,8 +1,14 @@
 # Scientific record recovery
 
-Code and saved-output artifacts for **Evaluating complete record recovery in chemical and materials information extraction**, by Dongdong Guo and Jiaxuan Li. This is an unpublished research manuscript prepared for Journal of Cheminformatics; the repository does not imply acceptance.
+Code and saved-output artifacts for **Diagnosing record recovery bottlenecks in chemical and materials information extraction**, by Dongdong Guo and Jiaxuan Li. This is an unpublished research manuscript prepared for Journal of Cheminformatics; the repository does not imply acceptance.
 
-The evaluation separates local agreement, complete annotated records and the attribution of comparator gains. It preserves adverse outcomes: the SC-CoMIcs aligned head did not establish an adjusted correspondence benefit and was outperformed by the adapted biaffine reference. MuLMS complete annotated measurement-context recovery was zero for all five tested heads.
+The evaluation separates local agreement, complete annotated records and the attribution of comparator gains. It preserves adverse outcomes: the SC-CoMIcs aligned head did not establish an adjusted correspondence benefit and was outperformed by the adapted biaffine reference. The original MuLMS baseline recovered zero complete annotated measurement-context objects for all five heads. The current supplements document decoder, calibration, continuation, external-endpoint and confidence analyses, including their adverse results and reused-test limits.
+
+## Current manuscript and supplementary evidence
+
+[Manuscript materials dated 9 October 2026](https://github.com/lijiajia3/scientific-record-recovery/releases/tag/manuscript-20261009) provide the final 30-page main manuscript, 40-page Supplementary Information, official Springer Nature LaTeX sources, six figures in Times New Roman and Additional files 2–6. The five scientific evidence ZIPs retain their original bytes. Each release file has a SHA-256 record; a combined public-materials ZIP is available for one download.
+
+See [the material index and compilation instructions](manuscript/2026-10-09/README.md). The current title, PDFs and availability statements refer to this dated snapshot. The historical v1.0.0 code and weight/cache assets remain available separately. The later diagnostic analyses reuse observed tests; they do not establish a new untouched evaluation or independent training replication. The snapshot release itself runs no new experiments.
 
 ## Quick saved-output reproduction
 
@@ -35,7 +41,7 @@ Each reconstructed weight/cache ZIP is standalone. Its `.partMMM` chunks must fi
 
 POLYIE: 14 paper units; supplied-entity groups; three fitted seeds. MuLMS: seven paper units; text-only entity detection and directed relations; three fitted seeds. SC-CoMIcs: native fold 1, 800/100/100 train/dev/test abstracts; 100 test source units, pooling the three fits within each unit. Unsupported native targets remain false negatives. The pilot has prior benchmark exposure and is a separate attribution boundary, not an independent replication of the supervised feature mechanism.
 
-Six SC relation/event contrasts use 100,000 whole-abstract exchanges and common 10,000 paired-source bootstrap draws, with Holm-six and the original historically informed Holm-ten sensitivity. Fitted seeds are not independent document samples. No test-set retraining, selected seed, ensemble or post-test threshold change was performed.
+Six historical SC relation/event contrasts use 100,000 whole-abstract exchanges and common 10,000 paired-source bootstrap draws, with Holm-six and the original historically informed Holm-ten sensitivity. Fitted seeds are not independent document samples. The historical fitting did not retrain on test labels, select a test seed or construct an ensemble. The current manuscript and dated supplements disclose subsequent development-selected decoder and calibration analyses and all prior test exposure.
 
 ## Licenses and access
 
@@ -51,6 +57,6 @@ See `LICENSES/` and the original notices inside `replay-data.zip`. Unlicensed SC
 
 ## Citation
 
-Guo D, Li J (2026). Evaluating complete record recovery in chemical and materials information extraction. Unpublished manuscript. Code release v1.0.0, https://github.com/lijiajia3/scientific-record-recovery.
+Guo D, Li J (2026). Diagnosing record recovery bottlenecks in chemical and materials information extraction. Unpublished manuscript. Manuscript materials: manuscript-20261009; historical code release: v1.0.0. https://github.com/lijiajia3/scientific-record-recovery.
 
 Language-model assistance supported code and manuscript preparation; model-assisted critiques are not external human peer review. Human authors remain responsible for verification.
