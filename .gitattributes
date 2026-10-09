@@ -1,10 +1,1 @@
 # Preserve the author-supplied official template files byte for byte.
-manuscript/2026-10-09/latex_source/*.bst -text
-manuscript/2026-10-09/latex_source/sn-jnl.cls -text
-manuscript/2026-10-09-fig1-access/latex_source/*.bst -text
-manuscript/2026-10-09-fig1-access/latex_source/sn-jnl.cls -text
-manuscript/2026-10-09-fig1-access-r2/latex_source/*.bst -text
-manuscript/2026-10-09-fig1-access-r2/latex_source/sn-jnl.cls -text
-
-manuscript/2026-10-09-rewritten/latex_source/*.bst -text
-manuscript/2026-10-09-rewritten/latex_source/sn-jnl.cls -text
