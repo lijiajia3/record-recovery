@@ -6,11 +6,11 @@ The evaluation separates local agreement, complete annotated records and the att
 
 ## Current manuscript and supplementary evidence
 
-[Manuscript materials dated 9 October 2026](https://github.com/lijiajia3/scientific-record-recovery/releases/tag/manuscript-20261009-fig1-access) provide the final 30-page main manuscript, 40-page Supplementary Information, official Springer Nature LaTeX sources, six figures in Times New Roman and Additional files 2–6. Figure 1 uses only the supplied IEEE Access Figure 1 as its visual reference. All other figures and numerical source records retain their preceding SHA-256 values. The five scientific evidence ZIPs retain their original bytes. Each release file has a SHA-256 record; a combined public-materials ZIP is available for one download.
+[Manuscript materials dated 9 October 2026](https://github.com/lijiajia3/scientific-record-recovery/releases/tag/manuscript-20261009-fig1-access-r2) provide the final 30-page main manuscript, 40-page Supplementary Information, official Springer Nature LaTeX sources, six figures in Times New Roman and Additional files 2–6. Figure 1 uses only the supplied IEEE Access Figure 1 as its visual reference. All other figures and numerical source records retain their preceding SHA-256 values. The five scientific evidence ZIPs retain their original bytes. Each release file has a SHA-256 record; a combined public-materials ZIP is available for one download.
 
 The [preceding manuscript snapshot](https://github.com/lijiajia3/scientific-record-recovery/releases/tag/manuscript-20261009) remains available.
 
-See [the material index and compilation instructions](manuscript/2026-10-09-fig1-access/README.md). The current title, PDFs and availability statements refer to this dated snapshot. The historical v1.0.0 code and weight/cache assets remain available separately. The later diagnostic analyses reuse observed tests; they do not establish a new untouched evaluation or independent training replication. The snapshot release itself runs no new experiments.
+See [the material index and compilation instructions](manuscript/2026-10-09-fig1-access-r2/README.md). The current title, PDFs and availability statements refer to this dated snapshot. The historical v1.0.0 code and weight/cache assets remain available separately. The later diagnostic analyses reuse observed tests; they do not establish a new untouched evaluation or independent training replication. The snapshot release itself runs no new experiments.
 
 ## Quick saved-output reproduction
 
@@ -59,6 +59,6 @@ See `LICENSES/` and the original notices inside `replay-data.zip`. Unlicensed SC
 
 ## Citation
 
-Guo D, Li J (2026). Diagnosing record recovery bottlenecks in chemical and materials information extraction. Unpublished manuscript. Manuscript materials: manuscript-20261009-fig1-access; historical code release: v1.0.0. https://github.com/lijiajia3/scientific-record-recovery.
+Guo D, Li J (2026). Diagnosing record recovery bottlenecks in chemical and materials information extraction. Unpublished manuscript. Manuscript materials: manuscript-20261009-fig1-access-r2; historical code release: v1.0.0. https://github.com/lijiajia3/scientific-record-recovery.
 
 Language-model assistance supported code and manuscript preparation; model-assisted critiques are not external human peer review. Human authors remain responsible for verification.
