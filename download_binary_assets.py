@@ -5,7 +5,7 @@ import argparse,json,hashlib,urllib.request,os
 def main():
  p=argparse.ArgumentParser();p.add_argument('--out',type=Path,required=True);a=p.parse_args();a.out.mkdir(parents=True,exist_ok=True)
  m=json.loads((Path(__file__).parent/'RELEASE_ASSET_MANIFEST.json').read_text());assert 'chunks' in m,'Use the finalized v1.0.0 source release'
- base='https://github.com/lijiajia3/scientific-record-recovery/releases/download/v1.0.0/'
+ base='https://github.com/lijiajia3/record-recovery/releases/download/v1.0.0/'
  for name,desc in m['assets'].items():
   if not name.startswith('weights-caches-'):continue
   dst=a.out/name;partial=a.out/(name+'.downloading');assert not partial.exists(),'Preserve and inspect an earlier incomplete download'
